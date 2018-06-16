@@ -1,4 +1,22 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [들어가며](intro.md)
+* [1주차 - 웹의 화가가 되어보자](week-1/README.md)
+  * [Stage 1 - 텍스트를 다루는 HTML tag를 배워보자](week-1/stage-1.md)
+  * [Stage 2 - 이미지, 폼을 다루는 HTML tag를 배워보자](week-1/stage-2.md)
+  * [Challenge 1 - html 연습하기](week-1/challenge-1/README.md)
+    * [모범 답안](week-1/challenge-1/solution.md)
+  * [Stage 3 - 추가로 HTML tag를 배워보자](week-1/stage-3.md)
+  * [Stage 4 - 크기, 색을 다루는 style을 배워보자](week-1/stage-4.md)
+  * [Challenge 2 - html,css 연습하기](week-1/challenge-2/README.md)
+    * [모범 답안](week-1/challenge-2/solution.md)
+  * [자율과제 1 - html,css 연습하기](week-1/exercise-1.md)
+  * [자율과제 2 - html,css 연습하기](week-1/exercise-2.md)
+* [2주차 - 웹에 능숙해지기](week-2.md)
+* [3주차 - 장고로 깨닫는 Python, Python으로 깨닫는 장고](week-3.md)
+* [4주차 - 살아있는 타임라인 만들기](week-4.md)
+* [5주차 - 함께 만드는 타임라인](week-5.md)
+* [6주차 - 타임라인에 댓글을 달아보자](week-6.md)
+* [나아가기](outro.md)
 
