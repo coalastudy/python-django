@@ -17,13 +17,13 @@ description: '이미지, 폼 등을 다루는 또 다른 태그도 배워볼까�
 
 태그에는 속성이 있습니다. 이미지를 넣는데, 그 이미지의 가로랑 세로 크기 정도는 정하고 싶을거 아니예요? 로그인 창의 아이디 입력필드에 '아이디를 입력해주세요'라는 힌트 글자를 넣어둘 수도 있겠죠. 이렇게 태그를 좀더 세밀하게 조정할 수 있는 기능이 속성입니다.
 
-| **태그** | **속** | **설명** | **사용**  |
+| **태그** | **속** | **설명** | **사용** |
 | --- | --- | --- | --- | --- | --- | --- |
 | input | type | 입력 필드의 종류를 선택한다. e.g 제목입력, 비밀번호 입력 | `<input type=“text” >` `<input type=“password” >` |
 |  | value | 초기값을 설정한다. | `전화번호 <input type=“text” value=“010-” >` |
 |  | readonly | 읽기 전용으로 설정해 수정불가능하게 만든다. | `<input type=“text” readonly >` |
-| textarea | rows | 세로 줄수(세로 크기와 관련) | `<textarea rows=“13”></textarea>` |
-|  | cols | 가로 줄수(가로 크기와 관련) | `<textarea cols=“50”></textarea>` |
+| textarea | rows | 세로 줄수\(세로 크기와 관련\) | `<textarea rows=“13”></textarea>` |
+|  | cols | 가로 줄수\(가로 크기와 관련\) | `<textarea cols=“50”></textarea>` |
 | img | width, height | 가로 세로 크기 | `<img src=“이미지주소” width=“100px” height=“30px”>` |
 
 {% hint style="info" %}
@@ -53,6 +53,4 @@ html, css 대표 이미지
 ```
 
 ![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image.png)
-
-
 

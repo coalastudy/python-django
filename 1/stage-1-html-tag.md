@@ -22,7 +22,6 @@ description: html과 css에 대해 간단히 살펴본 후 태그를 사용하�
 
 ![&#xB124;&#xC774;&#xBC84;&#xC758; &#xD398;&#xC774;&#xC9C0; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%2813%29.png)
 
-  
 이처럼 모든 웹사이트는 html과 css로 이루어져있습니다. html로 요소를 배치하고 css로 스타일을 만들어주는거죠.
 
 {% hint style="info" %}
@@ -47,7 +46,6 @@ html, css 외에도 큰 축을 담당하는 javascript가 있습니다. 모든 �
 
 ![&#xC608;&#xC81C;](../.gitbook/assets/image%20%285%29.png)
 
-  
 태그는 여는쪽과 닫는쪽이 있어요. b 태그는 안에 들어있는 내용물의 글자를 진하게 만드는 기능이 있습니다.
 
 ```markup
@@ -87,6 +85,4 @@ html <b>태그</b>란 말을 많이 들어봤죠?<br>
 ```
 
 ![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image%20%2819%29.png)
-
-
 
