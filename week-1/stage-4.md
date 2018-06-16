@@ -11,9 +11,9 @@ css: 스타일을 다룬다
 
 계속 반복해서 말씀드렸기 때문에 이제는 잘 아실거예요. 지금부터는 스타일을 다루는 css를 배워볼게요.
 
-![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2821%29.png)
+![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2823%29.png)
 
-![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2817%29.png)
+![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2819%29.png)
 
 ## 크기, 색 스타일
 
