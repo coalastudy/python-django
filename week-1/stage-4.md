@@ -17,15 +17,15 @@ css: 스타일을 다룬다
 
 ## 크기, 색 스타일
 
-| 스타일 | 설명 | 사용  |
+| **스타일** | **설명** | **사용**  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| color |  |  |
-| background-color |  |  |
-| border |  |  |
-| border-radius |  |  |
-| width, height |  |  |
-| margin |  |  |
-| padding |  |  |
+| color | 글자색상 지정 | `<div style=“color:red”>글자색이 빨간색</div>` |
+| background-color | 배경색상 지정 | `<div style=“background-color:red”>박스안 내용물</div>` |
+| border | 테두리 지정 | `<div style=“border:3px solid #0a0a0a”>박스안 내용물</div>` |
+| border-radius | 테두리의 둥근 정도를 설정 | `<div style=“border:3px solid #0a0a0a; border-radius: 12px;”>박스안 내용물</div>` |
+| width, height | 각각 가로, 세로 길이 | `<div style=“width:100px; height:50px; background-color:red;”>박스안 내용물</div>` |
+| margin | 외부 여백 지정 | `<div style=“margin: 30px; background-color:red;”>박스안 내용물</div>` |
+| padding | 내부 여백 지정 | `<div style=“padding: 40px; background-color:red;”>박스안 내용물</div>` |
 
 ### margin, padding
 
@@ -43,8 +43,8 @@ px 말고도 pt, %, ex, em 등 여러 종류의 단위가 있습니다. 그러�
 상황에 맞는 효율적인 크기 표현 방식이 있습니다. 인쇄용, 웹용, 큰 모니터, 작은 모니터 등 등 여러 상황이 있고 목적에 맞는 단위 설정이 중요합니다. 픽셀은 그 중 가장 무난한 방법이라 할 수 있겠네요.
 {% endhint %}
 
-```text
-코드
+```markup
+<div style="background-color:green; border: 5px solid #0a0a0a; border-radius:12px; width: 100px; height: 200px; margin: 15px; padding: 40px;">박스 안 내용물</div>
 ```
 
 ![](../.gitbook/assets/image%20%2812%29.png)

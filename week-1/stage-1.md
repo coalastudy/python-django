@@ -75,8 +75,15 @@ html, css 외에도 큰 축을 담당하는 javascript가 있습니다. 모든 �
 
 visual studio code에 입력하고 브라우저에서 실행해볼까요?
 
-```text
-22페이지 코드
+```markup
+<h1>태그를 배워봅시다</h1>
+
+html <b>태그</b>란 말을 많이 들어봤죠?<br>
+사용해보신 분들도 계시겠지만,<br>
+처음 써보시는 분들도 많이 계실거예요.<br><br>
+
+자세한 내용은 이곳에서 확인하실 수 있습니다.<br>
+<a href="http://naver.com">여기를 클릭하세요!</a>
 ```
 
 ![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image%20%2819%29.png)
