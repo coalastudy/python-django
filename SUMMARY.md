@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [들어가며](intro.md)
+* [사전 준비](undefined.md)
 * [1주차 - 웹의 화가가 되어보자](week-1/README.md)
   * [Stage 1 - 텍스트를 다루는 HTML tag를 배워보자](week-1/stage-1.md)
   * [Stage 2 - 이미지, 폼을 다루는 HTML tag를 배워보자](week-1/stage-2.md)
