@@ -2,7 +2,11 @@
 
 ## 아래와 똑같은 페이지를 만들어보세요.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
+
+## 이미지 주소
+
+![http://weac.org/wp-content/uploads/2014/06/instagram-logo\_100px.jpg](http://weac.org/wp-content/uploads/2014/06/instagram-logo_100px.jpg)
 
 ### **다음** **단계를** **따라** **진행하면** **더** **쉽습니다.**
 
@@ -11,7 +15,7 @@
 \[단계3\] 스케치하듯 태그만 간단하게 배치해봅니다.  
 \[단계4\] 코딩을 시작하세요!
 
-![&#xC544;&#xAE4C;&#xCC98;&#xB7FC; &#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xBD80;&#xD130; &#xC9DC;&#xBCF4;&#xAE30;](../.gitbook/assets/image%20%2820%29.png)
+![&#xC544;&#xAE4C;&#xCC98;&#xB7FC; &#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xBD80;&#xD130; &#xC9DC;&#xBCF4;&#xAE30;](../../.gitbook/assets/image%20%2820%29.png)
 
 
 

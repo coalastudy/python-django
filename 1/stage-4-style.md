@@ -44,7 +44,9 @@ px 말고도 pt, %, ex, em 등 여러 종류의 단위가 있습니다. 그러�
 {% endhint %}
 
 ```markup
-<div style="background-color:green; border: 5px solid #0a0a0a; border-radius:12px; width: 100px; height: 200px; margin: 15px; padding: 40px;">박스 안 내용물</div>
+<div style="background-color:green; border: 5px solid #0a0a0a; border-radius:12px; width: 100px; height: 200px; margin: 15px; padding: 40px;">
+박스 안 내용물
+</div>
 ```
 
 ![](../.gitbook/assets/image%20%2812%29.png)
