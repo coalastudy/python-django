@@ -11,9 +11,9 @@ css: 스타일을 다룬다
 
 계속 반복해서 말씀드렸기 때문에 이제는 잘 아실거예요. 지금부터는 스타일을 다루는 css를 배워볼게요.
 
-![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2834%29.png)
+![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2854%29.png)
 
-![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2829%29.png)
+![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2847%29.png)
 
 ## 크기, 색 스타일
 
@@ -29,9 +29,31 @@ css: 스타일을 다룬다
 
 ### margin, padding
 
-![margin&#xB3C4; &#xAC19;&#xC740; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%283%29.png)
+![margin&#xB3C4; &#xAC19;&#xC740; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%287%29.png)
 
-![padding&#xC758; &#xB124; &#xBC29;&#xD5A5;&#xC744; &#xC124;&#xC815;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%2816%29.png)
+![padding&#xC758; &#xB124; &#xBC29;&#xD5A5;&#xC744; &#xC124;&#xC815;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%2828%29.png)
+
+## 색상 선택기
+
+background-color: \#ff0000;  
+color: red;  
+위와 같이 색상을 표현하고 있습니다.
+
+![&#xB124;&#xC774;&#xBC84;&#xC758; &#xC0C9;&#xC0C1;&#xCF54;&#xB4DC;&#xD45C;](../.gitbook/assets/image%20%2853%29.png)
+
+원하는 색을 찾을 때 네이버에서 쉽게 찾을 수 있어요. css에서는 색상을 지정하는 여러가지 방법이 있지만, 가장 많이 쓰이는 방법은 아래와 같이 세가지 방식입니다.
+
+### 16진수
+
+**\#FF0000**처럼 16진수로 된 6자리 코드표\(경우에 따라 8자리\)를 사용해 색을 표현합니다.
+
+### RGB
+
+**color: \#FF00000**은 **color: rgb\(255, 0, 0\)**으로 대체할 수도 있습니다.
+
+### 색상 이름
+
+**color: red**라고 표현할 수도 있습니다. 자주 쓰이는 색상인 red, white, black, magenta, ...은 색상의 이름으로도 지정할 수 있지요. 그러나 세밀한 색 표현이 제한적으로만 쓰입니다.
 
 ## 실습
 
@@ -49,5 +71,13 @@ px 말고도 pt, %, ex, em 등 여러 종류의 단위가 있습니다. 그러�
 </div>
 ```
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
+
+{% hint style="info" %}
+**스타일링이 좀 어렵다구요?**
+
+네, 스타일링이 마냥 쉬운건 아니예요. 그러나 그건 스타일링 자체의 난이도가 높다기 보다는 익숙하지 않은 탓 입니다. **"웹의 화가가 되어보자"**라는 1주차의 제목이 기억 나시나요? 화가가 되려면 점, 선, 면을 수만번 그리며 손의 작은 근육과 큰 근육들을 고르게 발달 시키는 지루한 과정이 따라오죠.
+
+웹 디자인도 마찬가지로 어느정도는 인내심을 가지고 지루한 반복작업들을 통해 스타일링 근육을 길러야 한답니다. 지금 당장 잘 안된다고해도 상관없어요. 차분하게 실습하다보면 어느새 실력이 크게 상승해 있을거예요!
+{% endhint %}
 
