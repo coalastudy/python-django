@@ -4,15 +4,17 @@
 
 지난 시간에 필수로 알아야하는 태그들과 스타일을 배웠습니다. 이번 시간에는 좀 더 다양한 스타일을 배워볼까요?
 
+
+
 | 스타일 | 설 | 사용 예 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| font-size |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| font-size | 글자 크기 | `<div style=“font-size:40px;”>큰 글자</div>` |
+| font-weight | 글자 굵기(100, 200, …, 800) | `<div style=“font-weight:800;”>진한 글자</div>` |
+| text-align | 글자 정렬(left, right, center) | `<div style=“text-align:center;”>가운데 정렬</div>` |
+| float | 개체 배치 방식(띄우기 방식 설정) | `<img src=“이미지 경고”><div style=“float:left;”>이미지 바로 옆에 배치</div>` |
+| position | 개체 배치 방식(절대좌표, 상대좌표 설정) | `<div style=“position:absolute;top:50px;left:30px;”>정확히 원하는 위치로</div>` |
+| z-index | 좌표방식으로 설정되었을 때, 개체의 위아래 우선순위를 설정 | `<div style=“position:absolute;top:50px;left:30px;z-index:300;”>A</div><div style=“position:absolute;top:52px;left:32px;z-index:310;”>B</div>` |
+| display | 개체 레이아웃 제어 | `<div style=“display:inline-block;”>박스안 내용물</div>` |
 
 ## float
 
@@ -26,8 +28,19 @@ float은 개체를 공중에 띄웁니다.
 
 ![float: right;](../.gitbook/assets/image%20%2818%29.png)
 
-```text
-7page float code
+```markup
+<style>
+    .img {
+        width: 150px;
+        height: 100px;
+        float: left;
+        background-color: yellow;
+     }
+</style>
+
+<div class="img">img here</div>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</body>
 ```
 
 ### clear
@@ -43,8 +56,24 @@ float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 
 
 ![clear:both;](../.gitbook/assets/image%20%2829%29.png)
 
-```text
-8page clear
+```markup
+<style>
+    .img {
+        width: 150px;
+        height: 100px;
+        float: right;
+        border: 2px solid red;
+    }
+    .box {
+        background-color: orange;
+        clear: both;
+    }
+</style>
+<body>
+    <div class="img">img here</div>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    <div class="box">다른 텍스트</div>
+</body>
 ```
 
 ## position
@@ -68,8 +97,27 @@ position을 사용해본적이 없다면 이 설명만으로는 이해하기 어
 
 ![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xB294; position:absolute;&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xC0C1;&#xD0DC;](../.gitbook/assets/image%20%2830%29.png)
 
-```text
-9page absolute code
+```markup
+<style>
+    .box1 {
+        width: 300px;
+        height: 200px;
+        background-color: blue;
+        color: #fff;
+    }
+
+    .box2 {
+        top: 35px;
+        left: 40px;
+        position: absolute;
+        width: 200px;
+        height: 150px;
+        background-color: orange;
+        color: #fff;
+    }
+</style>
+<div class="box1">A</div>
+<div class="box2">B</div>
 ```
 
 position:abolute 속성을 지정하는 순간, top, left, right, bottom을 함께 지정할 수 있습니다. 이는 각각 맨 위, 맨 왼쪽, 맨 오른쪽, 맨 아래로부터 얼마만큼 떨어져 있나 정할 수 있게 해줍니다. 즉 좌표를 정하는 것처럼 특정 위치에 놓이게 할 수 있죠.
@@ -77,10 +125,30 @@ position:abolute 속성을 지정하는 순간, top, left, right, bottom을 함�
 #### z-index
 
 이때 만약 주황색 B보다 파란색 A가 중요하다고 판단되면, z-index 속성을 통해 순서를 바꿀 수 있습니다.  
-박스 A에 z-index: 1000이라 하고, 박스 B에 z-index:999라 하면, z-index 값이 높은 A가 더 위에 올라오게 되고, B는 가려지게 되죠.
+박스 A에 z-index: 1000이라 하고, 박스 B에 z-index:999라 하면, z-index 값이 높은 A가 더 위에 올라오게 되고, B는 가려지게 되죠. z-index는 0~9999 사이의 값을 사용할 것을 권장합니다.
 
-```text
-z-index 예
+```markup
+<style>
+    .box1 {
+        width: 300px;
+        height: 200px;
+        background-color: blue;
+        color: #fff;
+        position: absolute;
+        z-index: 1000;
+    }
+
+    .box2 {
+        top: 35px;
+        left: 40px;
+        position: absolute;
+        width: 200px;
+        height: 150px;
+        background-color: orange;
+        color: #fff;
+        z-index: 999;
+    }
+</style>
 ```
 
 ### relative

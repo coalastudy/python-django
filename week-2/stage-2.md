@@ -63,12 +63,37 @@
 
 ### 실습
 
-```text
-17page body
+```markup
+<div class="header">Header</div>
+<div class="left">Left</div>
+<div class="content">Content</div>
+<div class="footer">Footer</div>
 ```
 
-```text
-17page style
+```markup
+<style>
+    .header {
+        background-color: blue;
+        color: #fff;
+    }
+    .left {
+        background-color: orange;
+        color: #fff;
+        float: left;
+        width: 200px;
+        height: 300px;
+    }
+    .content {
+        background-color: red;
+        color: #fff;
+        height: 500px;
+        margin-left: 200px;
+    }
+    .footer {
+        background-color: green;
+        color: #fff;
+    }
+</style>
 ```
 
 위 코드를 타이핑해보고 구조를 이해해보세요. 그리고 다음과 같은 작업들을 해보세요. 이해하는데 큰 도움이 될 겁니다.
