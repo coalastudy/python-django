@@ -29,7 +29,7 @@
     * [모범 답안](week-2/exercise-1/solution.md)
   * [자율과제 2 - 페이스북 레이아웃 연습2](week-2/exercise-2/README.md)
     * [모범 답안](week-2/exercise-2/solution.md)
-  * [추천자료 -](week-2/reference.md)
+  * [추천자료](week-2/reference.md)
 * [3주차 - 장고로 깨닫는 Python, Python으로 깨닫는 장고](week-3.md)
 * [4주차 - 살아있는 타임라인 만들기](week-4.md)
 * [5주차 - 함께 만드는 타임라인](week-5.md)

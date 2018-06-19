@@ -2,7 +2,7 @@
 
 ## 다음과 똑같은 페이지를 만들어보세요.
 
-![&#xCD5C;&#xB300;&#xD55C; &#xBE44;&#xC2B7;&#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%2822%29.png)
+![&#xCD5C;&#xB300;&#xD55C; &#xBE44;&#xC2B7;&#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%2823%29.png)
 
 ## 이미지 주소
 
@@ -12,7 +12,7 @@
 
 ![http://www.momo.ai/wp-content/uploads/2017/06/google\_mail\_logo-2.png](http://www.momo.ai/wp-content/uploads/2017/06/google_mail_logo-2.png)
 
-### 방법
+## 방법
 
 **짝과** **함께** **다음** **단계를** **모두** **진행합니다.  
 \[단계1\]** 어떤 태그를 쓸지 나열해봅니다.  
