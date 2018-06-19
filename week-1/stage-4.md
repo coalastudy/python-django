@@ -11,9 +11,9 @@ css: 스타일을 다룬다
 
 계속 반복해서 말씀드렸기 때문에 이제는 잘 아실거예요. 지금부터는 스타일을 다루는 css를 배워볼게요.
 
-![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2823%29.png)
+![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2834%29.png)
 
-![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2819%29.png)
+![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2829%29.png)
 
 ## 크기, 색 스타일
 
@@ -29,9 +29,9 @@ css: 스타일을 다룬다
 
 ### margin, padding
 
-![margin&#xB3C4; &#xAC19;&#xC740; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%282%29.png)
+![margin&#xB3C4; &#xAC19;&#xC740; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%283%29.png)
 
-![padding&#xC758; &#xB124; &#xBC29;&#xD5A5;&#xC744; &#xC124;&#xC815;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%2810%29.png)
+![padding&#xC758; &#xB124; &#xBC29;&#xD5A5;&#xC744; &#xC124;&#xC815;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%2816%29.png)
 
 ## 실습
 
@@ -49,5 +49,5 @@ px 말고도 pt, %, ex, em 등 여러 종류의 단위가 있습니다. 그러�
 </div>
 ```
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
