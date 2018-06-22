@@ -4,7 +4,7 @@
 
 ### 1. 메뉴 -&gt; View -&gt; Tool Windows -&gt; Terminal을 클릭합니다.
 
-![](../.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 ### 2. 하단에 Terminal이 표시됩니다.
 
@@ -24,17 +24,17 @@ terminal을 클릭하고 `python - -version` 을 입력합니다. 이어서 `pip
 
 좌측 위 Project 탭을 새로고침하여 **facebook** 폴더와 **main** 폴더가 잘 만들어졌는지 확인합니다.
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 ### 4. main폴더를 열고 settings.py를 실행해줍니다.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 ### 5. 33번째 줄 주변에서 INSTALLED\_APPS라는 문자를 찾습니다.
 
 이후 39번째 줄 아래 캡쳐화면처럼 **‘facebook’**을 입력해줍니다.
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
   
 장고 프로젝트 Setting을 완료했습니다. 지금부터는 장고프로젝트를 **실행**해보겠습니다.
@@ -43,23 +43,23 @@ terminal을 클릭하고 `python - -version` 을 입력합니다. 이어서 `pip
 
 ### 1. 메뉴 -&gt; run -&gt; edit configurations 실행합니다.
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28115%29.png)
 
 ### 2. + 버튼을 클릭한 후 Python을 선택해줍니다.
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
 ### 3. 아래 캡쳐화면과 똑같이 설정해줍니다.
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 ### 4. 실행 버튼을 클릭합니다. 일반적으로 우측 상단에 있습니다.
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 **하단** **터미널에** `http://127.0.0.1:8000/` **에** **글자가** **표시되면** **잘** **실행된** **것** **입니다.**
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 ### 5. 인터넷 브라우저를 열어 `http://127.0.0.1:8000`에 접속해봅니다.
 
@@ -84,15 +84,15 @@ terminal을 클릭하고 `python - -version` 을 입력합니다. 이어서 `pip
 
 ### 1. 좌측 Project에서 facebook 폴더 내에 templates 폴더 생성. 폴더 생성 후 play.html 생성
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 ### 2. facebook 폴더 내 views.py를 다음과 같이 수정
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 ### 3. main폴더 내 urls.py를 다음과 같이 수정
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ### 4. play.html 내용을 Hello World!로 채우고 `http://127.0.0.1:8000/play/` 접속해보기
 
