@@ -1,6 +1,25 @@
 # 모범 답안
 
+{% code-tabs %}
+{% code-tabs-item title="urls.py" %}
+```python
+2주차 urls.py
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="views.py" %}
+```python
+2주차 views.py
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="play.html" %}
 ```markup
+
 <!DOCTYPE html>
 <html>
 
@@ -56,4 +75,6 @@
 
 </html>
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
