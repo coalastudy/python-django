@@ -4,7 +4,7 @@
 
 ### Python과 Django 깨닫기
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 #### 파이썬을 배우고 장고의 구동원리를 알아봅니다.
 

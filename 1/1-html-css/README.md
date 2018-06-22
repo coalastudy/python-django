@@ -7,9 +7,11 @@
 **어렵다면 언제든 질문하세요.** 우리에겐 질문에 답변해주고 싶어서 안달난 **리더와 스터디 동료들**이 있잖아요?  
 카톡방과 페이스북 그룹\([https://www.facebook.com/groups/1673058032731901/](https://www.facebook.com/groups/1673058032731901/)\)에서 활발한 피드백이 오가고 있습니다.
 
-## 아래와 똑같은 페이지를 만들어보세요.
+## 문
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+### 아래와 똑같은 페이지를 만들어보세요.
+
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 ## 방법
 
@@ -20,5 +22,5 @@
 **\[단계3\]** 스케치하듯 태그만 간단하게 배치하여 구조를 잡습니다.  
 **\[단계4\]** 코딩을 시작하세요!
 
-![&#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xB9CC; &#xC801;&#xB2F9;&#xD788; &#xC9DC;&#xBCF4;&#xC138;&#xC694;. &#xCF54;&#xB529;&#xC774; &#xD6E8;&#xC52C; &#xC26C;&#xC5B4;&#xC9D1;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%286%29.png)
+![&#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xB9CC; &#xC801;&#xB2F9;&#xD788; &#xC9DC;&#xBCF4;&#xC138;&#xC694;. &#xCF54;&#xB529;&#xC774; &#xD6E8;&#xC52C; &#xC26C;&#xC5B4;&#xC9D1;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%288%29.png)
 

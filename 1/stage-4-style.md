@@ -11,9 +11,9 @@ css: 스타일을 다룬다
 
 계속 반복해서 말씀드렸기 때문에 이제는 잘 아실거예요. 지금부터는 스타일을 다루는 css를 배워볼게요.
 
-![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2874%29.png)
+![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%2891%29.png)
 
-![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2865%29.png)
+![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2881%29.png)
 
 ## 크기, 색 스타일
 
@@ -29,9 +29,9 @@ css: 스타일을 다룬다
 
 ### margin, padding
 
-![margin&#xB3C4; &#xAC19;&#xC740; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%288%29.png)
+![margin&#xB3C4; &#xAC19;&#xC740; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC124;&#xC815;&#xD560; &#xC218; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%2810%29.png)
 
-![padding&#xC758; &#xB124; &#xBC29;&#xD5A5;&#xC744; &#xC124;&#xC815;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%2837%29.png)
+![padding&#xC758; &#xB124; &#xBC29;&#xD5A5;&#xC744; &#xC124;&#xC815;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%2840%29.png)
 
 ## 색상 선택기
 
@@ -39,7 +39,7 @@ background-color: \#ff0000;
 color: red;  
 위와 같이 색상을 표현하고 있습니다.
 
-![&#xB124;&#xC774;&#xBC84;&#xC758; &#xC0C9;&#xC0C1;&#xCF54;&#xB4DC;&#xD45C;](../.gitbook/assets/image%20%2872%29.png)
+![&#xB124;&#xC774;&#xBC84;&#xC758; &#xC0C9;&#xC0C1;&#xCF54;&#xB4DC;&#xD45C;](../.gitbook/assets/image%20%2889%29.png)
 
 원하는 색을 찾을 때 네이버에서 쉽게 찾을 수 있어요. css에서는 색상을 지정하는 여러가지 방법이 있지만, 가장 많이 쓰이는 방법은 아래와 같이 세가지 방식입니다.
 
@@ -71,7 +71,7 @@ px 말고도 pt, %, ex, em 등 여러 종류의 단위가 있습니다. 그러�
 </div>
 ```
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 {% hint style="info" %}
 **스타일링이 좀 어렵다구요?**

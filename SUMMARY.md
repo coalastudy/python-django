@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [파이썬 장고](README.md)
 * [사전 준비](undefined.md)
 * [1주차 - 웹의 화가가 되어보자](1/README.md)
   * [Stage 1 - 텍스트를 다루는 HTML tag를 배워보자](1/stage-1-html-tag.md)

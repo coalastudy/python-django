@@ -4,7 +4,7 @@
 
 ### 웹의 화가가 되어보자
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 #### **웹상에 원하는 페이지를 그릴 수 있도록  html과 css를 배웁니다.**
 
