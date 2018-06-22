@@ -23,7 +23,7 @@
 
 변수는 숫자 혹은 문자와 같은 자료들을 잠시 저장해두는 곳입니다.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 #### 주의할 점
 
@@ -34,7 +34,7 @@
 
 먼저 파이썬을 설치할 때 함께 자동으로 설치된 **IDLE**를 실행합니다.
 
-![&#xD568;&#xAED8; &#xD0C0;&#xC774;&#xD551; &#xD574;&#xBCFC;&#xAE4C;&#xC694;?](../.gitbook/assets/image%20%2848%29.png)
+![&#xD568;&#xAED8; &#xD0C0;&#xC774;&#xD551; &#xD574;&#xBCFC;&#xAE4C;&#xC694;?](../.gitbook/assets/image%20%2854%29.png)
 
 #### 변수 이름 작성법
 
@@ -44,7 +44,7 @@
 
 또한 숫자로 시작하는 변수이름은 사용이 불가능합니다. 변수이름으로 한글도 가능하지만 절대 사용하지 말아주세요.
 
-![&#xC774;&#xBC88; &#xC2E4;&#xC2B5;&#xC5D0;&#xC11C; &#xC0AC;&#xC6A9;&#xD55C; IDLE](../.gitbook/assets/image%20%2877%29.png)
+![&#xC774;&#xBC88; &#xC2E4;&#xC2B5;&#xC5D0;&#xC11C; &#xC0AC;&#xC6A9;&#xD55C; IDLE](../.gitbook/assets/image%20%2886%29.png)
 
 ### 실습 - 페이지 만들기
 
@@ -61,21 +61,21 @@
 
 #### 2. play2.html 파일을 templates 폴더안에 생성합니다. templates 폴더를 클릭하고 오른쪽 버튼을 눌러주세요.
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 #### 3. views.py안에 play2 함수를 추가합니다.
 
 이어서 play2 함수가 play2.html로 연결되도록 만들어줍니다.
 
-![views.py](../.gitbook/assets/image%20%2847%29.png)
+![views.py](../.gitbook/assets/image%20%2853%29.png)
 
 #### 4. urls.py를 열고 play2 함수를 play2 주소로 연결합니다.
 
-![urls.py](../.gitbook/assets/image%20%2879%29.png)
+![urls.py](../.gitbook/assets/image%20%2888%29.png)
 
 #### 결과 확인
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 ### 실습 - 변수 in Django
 
@@ -83,15 +83,15 @@
 
 먼저 views.py를 열어 다음과 같이 수정해주세요.
 
-![views.py](../.gitbook/assets/image%20%2852%29.png)
+![views.py](../.gitbook/assets/image%20%2858%29.png)
 
 templates 폴더 안에 있는 play2.html도 수정해주세요.
 
-![play2.html](../.gitbook/assets/image%20%28105%29.png)
+![play2.html](../.gitbook/assets/image%20%28119%29.png)
 
 #### 결과확인
 
-![127.0.0.1:8000/play2 &#xC811;&#xC18D;&#xC2DC;](../.gitbook/assets/image%20%2845%29.png)
+![127.0.0.1:8000/play2 &#xC811;&#xC18D;&#xC2DC;](../.gitbook/assets/image%20%2851%29.png)
 
 ### 실습 - 변수를 이용해 방문자 카운터 만들기
 
@@ -119,7 +119,7 @@ views.py와 play2.html 파일을 열고 아래와 같이 수정해주세요.
 
 #### 결과 확인
 
-![127.0.0.1:8000/play2](../.gitbook/assets/image%20%28103%29.png)
+![127.0.0.1:8000/play2](../.gitbook/assets/image%20%28116%29.png)
 
 {% hint style="info" %}
 ### global이 뭐죠?
@@ -135,7 +135,7 @@ views.py와 play2.html 파일을 열고 아래와 같이 수정해주세요.
 
 제시한 조건이 맞을 때만 범위 안의 구문\(탭안쪽\)을 실행하게 도와주는 문법입니다.
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 #### 조건이 맞으면?
 
