@@ -12,9 +12,9 @@
 
 해당 페이지에 대한 정보들을 담습니다. head 안에 있는 **title은 브라우저의 탭의 이름**에 해당합니다.
 
-![&amp;lt;title&amp;gt;Stage 2 - &#xB808;&#xC774;&#xC544;&#xC6C3;&#xC744; &#xC9C1;&#xC811; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC790;&amp;lt;/title&amp;gt;](../.gitbook/assets/image%20%28114%29.png)
+![&amp;lt;title&amp;gt;Stage 2 - &#xB808;&#xC774;&#xC544;&#xC6C3;&#xC744; &#xC9C1;&#xC811; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC790;&amp;lt;/title&amp;gt;](../.gitbook/assets/image%20%28115%29.png)
 
-![&#xC2E4;&#xC81C; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%2875%29.png)
+![&#xC2E4;&#xC81C; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%2876%29.png)
 
 실제로 이 페이지의 소스코드를 살펴보면 title이 위와 같이 정의되어 있습니다. \(data-react-helmet은 무시해도, 쓰지 않아도 상관없습니다.\) title 이외에 페이지에 대한 설명, 키워드 등 개괄적인 정보를 담을 수도 있습니다.
 
@@ -44,7 +44,7 @@
 
 저희가 이번 스터디에서 사용하지는 않습니다. 그러나 **실제 프로젝트에서는 자주 사용**되는 방식으로 알아둘 필요는 있습니다. 파일을 별개로 html파일과 css파일 2개를 구성합니다. 그리고 html 파일에서 css 파일을 불러오는 식으로 사용합니다. 그외 사용법은 내부 스타일시트와 유사합니다.
 
-![test.html](../.gitbook/assets/image%20%28112%29.png)
+![test.html](../.gitbook/assets/image%20%28113%29.png)
 
 ![style.css](../.gitbook/assets/image%20%2864%29.png)
 

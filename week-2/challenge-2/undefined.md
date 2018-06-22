@@ -3,7 +3,7 @@
 {% code-tabs %}
 {% code-tabs-item title="urls.py" %}
 ```python
-2주차 urls.py
+from django.contrib import adminfrom django.urls import pathfrom facebook.views import playurlpatterns = [    path('admin/', admin.site.urls),    path('play/', play)]
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -11,7 +11,7 @@
 {% code-tabs %}
 {% code-tabs-item title="views.py" %}
 ```python
-2주차 views.py
+from django.contrib import adminfrom django.urls import pathfrom facebook.views import playurlpatterns = [    path('admin/', admin.site.urls),    path('play/', play)]
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -19,7 +19,6 @@
 {% code-tabs %}
 {% code-tabs-item title="play.html" %}
 ```markup
-
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +60,7 @@
     </style>
     <div class="app">
         <div class="header">
-            <img src="./insta.png">
+            <img src="/static/insta.png">
         </div>
         <div class="container">
             <div class="name">Cristiano Ronaldo</div>

@@ -51,7 +51,7 @@
 
 ### 예시
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 그동안 작업했던 views.py 안에 있는 play, play2가 기억나시나요? 이 역시 함수입니다.
 

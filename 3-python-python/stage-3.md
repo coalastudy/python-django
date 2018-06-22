@@ -8,7 +8,7 @@
 
 ### 1. 새 프로젝트를 생성합니다.
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 ### 2. 적당한 프로젝트의 이름을 입력합니다. \(ex python\_practice\)
 
@@ -16,9 +16,9 @@
 
 ### 3. 새로운 파이썬 파일을 생성합니다.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 ### 4. 코드를 이곳에 작성합니다.
 
@@ -148,7 +148,7 @@ print(todo_list[5])
 
 이러한 반복적인 작업을 대신 수행해주는게 for문입니다. for문을 통해 list를 출력하려면 다음과 같이 입력해주세요.
 
-![for&#xBB38;&#xC5D0;&#xC11C; list &#xC811;&#xADFC;&#xD558;&#xAE30;](../.gitbook/assets/image%20%28124%29.png)
+![for&#xBB38;&#xC5D0;&#xC11C; list &#xC811;&#xADFC;&#xD558;&#xAE30;](../.gitbook/assets/image%20%28125%29.png)
 
 **todo\_list**라는 이름의 리스트에 접근할 것 입니다. 그리고 그 안에 있는 내용물 하나 하나를 **todo**라고 부르겠습니다. todo는 맨 처음에 todo\_list\[0\]이 되었다가 이어서 todo\_list\[1\]이 됩니다. 그리고 todo\_list\[2\]가 되는 작업을 todo\_list가 끝날때까지 반복합니다. 즉 위에서 노가다로 작업한 print 구문과 똑같은 작업을 한다고 볼 수 있습니다.
 
@@ -173,5 +173,5 @@ page
 
 #### 결과확인
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 

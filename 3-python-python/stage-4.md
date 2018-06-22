@@ -18,7 +18,7 @@
 
 그럼 장고상에서 표시되는 html 페이지들이 어떤 원리로 url에 연결되는지 살펴보겠습니다.
 
-![&#xCC28;&#xADFC;&#xCC28;&#xADFC; &#xC0B4;&#xD3B4;&#xBCF4;&#xC138;&#xC694;!](../.gitbook/assets/image%20%28119%29.png)
+![&#xCC28;&#xADFC;&#xCC28;&#xADFC; &#xC0B4;&#xD3B4;&#xBCF4;&#xC138;&#xC694;!](../.gitbook/assets/image%20%28120%29.png)
 
 ## url과 페이지를 연결하는 방법
 
@@ -39,7 +39,7 @@
 
 #### 2. play2.html 파일을 templates 폴더안에 생성합니다. templates 폴더를 클릭하고 오른쪽 버튼을 눌러주세요.
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 #### 3. views.py안에 play2 함수를 추가합니다.
 
@@ -49,11 +49,11 @@
 
 #### 4. urls.py를 열고 play2 함수를 play2 주소로 연결합니다.
 
-![urls.py](../.gitbook/assets/image%20%2893%29.png)
+![urls.py](../.gitbook/assets/image%20%2894%29.png)
 
 #### 결과 확인
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ## 장고의 폴더와 파일 설명
 

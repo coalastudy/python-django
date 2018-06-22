@@ -11,9 +11,9 @@ css: 스타일을 다룬다
 
 계속 반복해서 말씀드렸기 때문에 이제는 잘 아실거예요. 지금부터는 스타일을 다루는 css를 배워볼게요.
 
-![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%28106%29.png)
+![css&#xC758; &#xAE30;&#xBCF8; &#xD615;&#xD0DC; - inline &#xBC29;&#xC2DD;](../.gitbook/assets/image%20%28107%29.png)
 
-![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2895%29.png)
+![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2896%29.png)
 
 ## 크기, 색 스타일
 
@@ -39,7 +39,7 @@ background-color: \#ff0000;
 color: red;  
 위와 같이 색상을 표현하고 있습니다.
 
-![&#xB124;&#xC774;&#xBC84;&#xC758; &#xC0C9;&#xC0C1;&#xCF54;&#xB4DC;&#xD45C;](../.gitbook/assets/image%20%28104%29.png)
+![&#xB124;&#xC774;&#xBC84;&#xC758; &#xC0C9;&#xC0C1;&#xCF54;&#xB4DC;&#xD45C;](../.gitbook/assets/image%20%28105%29.png)
 
 원하는 색을 찾을 때 네이버에서 쉽게 찾을 수 있어요. css에서는 색상을 지정하는 여러가지 방법이 있지만, 가장 많이 쓰이는 방법은 아래와 같이 세가지 방식입니다.
 

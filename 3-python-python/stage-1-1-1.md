@@ -44,7 +44,7 @@
 
 또한 숫자로 시작하는 변수이름은 사용이 불가능합니다. 변수이름으로 한글도 가능하지만 절대 사용하지 말아주세요.
 
-![&#xC774;&#xBC88; &#xC2E4;&#xC2B5;&#xC5D0;&#xC11C; &#xC0AC;&#xC6A9;&#xD55C; IDLE](../.gitbook/assets/image%20%2891%29.png)
+![&#xC774;&#xBC88; &#xC2E4;&#xC2B5;&#xC5D0;&#xC11C; &#xC0AC;&#xC6A9;&#xD55C; IDLE](../.gitbook/assets/image%20%2892%29.png)
 
 ### 실습 - 페이지 만들기
 
@@ -61,7 +61,7 @@
 
 #### 2. play2.html 파일을 templates 폴더안에 생성합니다. templates 폴더를 클릭하고 오른쪽 버튼을 눌러주세요.
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 #### 3. views.py안에 play2 함수를 추가합니다.
 
@@ -71,11 +71,11 @@
 
 #### 4. urls.py를 열고 play2 함수를 play2 주소로 연결합니다.
 
-![urls.py](../.gitbook/assets/image%20%2893%29.png)
+![urls.py](../.gitbook/assets/image%20%2894%29.png)
 
 #### 결과 확인
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ### 실습 - 변수 in Django
 
@@ -87,7 +87,7 @@
 
 templates 폴더 안에 있는 play2.html도 수정해주세요.
 
-![play2.html](../.gitbook/assets/image%20%28125%29.png)
+![play2.html](../.gitbook/assets/image%20%28126%29.png)
 
 #### 결과확인
 
@@ -119,7 +119,7 @@ views.py와 play2.html 파일을 열고 아래와 같이 수정해주세요.
 
 #### 결과 확인
 
-![127.0.0.1:8000/play2](../.gitbook/assets/image%20%28122%29.png)
+![127.0.0.1:8000/play2](../.gitbook/assets/image%20%28123%29.png)
 
 {% hint style="info" %}
 ### global이 뭐죠?

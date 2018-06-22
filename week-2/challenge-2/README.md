@@ -4,16 +4,19 @@
 
 ### `127.0.0.1:8000/play`로 연결되는 다음과 똑같은 페이지를 만들어보세요.
 
-![&#xB611;&#xAC19;&#xC740; &#xD398;&#xC774;&#xC9C0;&#xB97C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%2889%29.png)
+![&#xB611;&#xAC19;&#xC740; &#xD398;&#xC774;&#xC9C0;&#xB97C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%2890%29.png)
 
-## 이미지 다운로드
+## 이미지 사용
 
-![&#xC624;&#xB978;&#xCABD; &#xBC84;&#xD2BC;&#xC744; &#xB20C;&#xB7EC; &#xC774;&#xBBF8;&#xC9C0;&#xB97C; insta.png&#xB77C;&#xB294; &#xC774;&#xB984;&#xC73C;&#xB85C; &#xC800;&#xC7A5;&#xD574;&#xC8FC;&#xC138;&#xC694;. ](../../.gitbook/assets/image%20%2879%29.png)
+![&#xC624;&#xB978;&#xCABD; &#xBC84;&#xD2BC;&#xC744; &#xB20C;&#xB7EC; &#xC774;&#xBBF8;&#xC9C0;&#xB97C; insta.png&#xB77C;&#xB294; &#xC774;&#xB984;&#xC73C;&#xB85C; &#xC800;&#xC7A5;&#xD574;&#xC8FC;&#xC138;&#xC694;. ](../../.gitbook/assets/image%20%2880%29.png)
 
   
-이미지를 다운로드 받으신 후, **insta.png**라는 이름으로 작성하시는 html과 같은 폴더에 넣어주세요.
+이미지를 다운로드 받으신 후, **facebook 폴더 바로 밑에** **static 폴더**를 만들고 그 안에 이미지를 넣어주세요.
 
-같은 폴더에 있을때는 이미지 이름만 입력해도 표시됩니다. `<img src=“insta.png”>`
+![satic &#xD3F4;&#xB354; &#xC548;&#xC5D0; insta.png &#xB123;&#xAE30;](../../.gitbook/assets/image%20%2874%29.png)
+
+static 폴더안에 넣고 이미지 이름 앞에 **/static/** 만 붙이면 됩니다.  
+`<img src=“/static/insta.png”>`
 
 ## 방법
 
