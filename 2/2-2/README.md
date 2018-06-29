@@ -6,9 +6,9 @@
 
 margin, padding, width, height만 조금 변경하면 디테일이 개선된 페이지를 얻으실 수 있습니다.
 
-![&#xB611;&#xAC19;&#xC740; &#xD398;&#xC774;&#xC9C0;&#xB97C; &#xB9CC;&#xB4E4;&#xC5B4;&#xC8FC;&#xC138;&#xC694;. &#xC870;&#xAE08; &#xB2EC;&#xB77C;&#xB3C4; &#xC0C1;&#xAD00;&#xC5C6;&#xC2B5;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2898%29.png)
+![&#xB611;&#xAC19;&#xC740; &#xD398;&#xC774;&#xC9C0;&#xB97C; &#xB9CC;&#xB4E4;&#xC5B4;&#xC8FC;&#xC138;&#xC694;. &#xC870;&#xAE08; &#xB2EC;&#xB77C;&#xB3C4; &#xC0C1;&#xAD00;&#xC5C6;&#xC2B5;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%28104%29.png)
 
-![&#xCD5C;&#xC885;&#xC801;&#xC73C;&#xB85C; &#xC774; &#xBAA8;&#xC2B5;&#xC744; &#xD5A5;&#xD574; &#xB2EC;&#xB824;&#xAC11;&#xB2C8;&#xB2E4;. \(&#xC624;&#xB298;&#xC740; &#xC544;&#xB2C8;&#xAD6C;&#xC694;.\)](../../.gitbook/assets/image%20%2866%29.png)
+![&#xCD5C;&#xC885;&#xC801;&#xC73C;&#xB85C; &#xC774; &#xBAA8;&#xC2B5;&#xC744; &#xD5A5;&#xD574; &#xB2EC;&#xB824;&#xAC11;&#xB2C8;&#xB2E4;. \(&#xC624;&#xB298;&#xC740; &#xC544;&#xB2C8;&#xAD6C;&#xC694;.\)](../../.gitbook/assets/image%20%2870%29.png)
 
 ## 방법
 
