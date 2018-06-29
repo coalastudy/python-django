@@ -6,17 +6,17 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ## 코딩을 배우는 이유는?
 
-![&#xB300;&#xBD80;&#xBD84;&#xC758; &#xD559;&#xAD50;&#xC5D0;&#xC11C; &#xAC00;&#xB974;&#xCE58;&#xC9C0; &#xC54A;&#xB294;&#xAC83;](.gitbook/assets/image%20%28100%29.png)
+![&#xB300;&#xBD80;&#xBD84;&#xC758; &#xD559;&#xAD50;&#xC5D0;&#xC11C; &#xAC00;&#xB974;&#xCE58;&#xC9C0; &#xC54A;&#xB294;&#xAC83;](.gitbook/assets/image%20%28101%29.png)
 
 [youtube에서 보기](https://www.youtube.com/watch?v=lHZxmcP-CHI&t=35s)
 
 ## 코알라의 코딩스터디!
 
-![](.gitbook/assets/image%20%28134%29.png)
+![](.gitbook/assets/image%20%28136%29.png)
 
-![](.gitbook/assets/image%20%2887%29.png)
+![](.gitbook/assets/image%20%2888%29.png)
 
-![](.gitbook/assets/image%20%28175%29.png)
+![](.gitbook/assets/image%20%28177%29.png)
 
 ## 이런 분들에게 추천합니다.
 
@@ -48,11 +48,11 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 3. 결과를 눈으로 확인합니다.
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](.gitbook/assets/image%20%28106%29.png)
 
 ### 4. 설명을 듣고 원리를 이해합니다.
 
-![](.gitbook/assets/image%20%2899%29.png)
+![](.gitbook/assets/image%20%28100%29.png)
 
 {% hint style="success" %}
 ### 요청드려!
@@ -74,7 +74,7 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 마냥 쉽지는 않습니다.
 
-![Easy but should try](.gitbook/assets/image%20%2886%29.png)
+![Easy but should try](.gitbook/assets/image%20%2887%29.png)
 
 쉽게 코딩을 배우지만 그렇다고 마냥 쉽지는 않아요. 영어공부, 수학공부를 할 때를 생각해봐요. 구구단을 외운 노력에 10%만이라도 투자해주세요.
 

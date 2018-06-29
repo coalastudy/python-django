@@ -4,7 +4,7 @@
 
 ### 다음과 똑같은 페이지를 만들어보세요.
 
-![&#xCD5C;&#xB300;&#xD55C; &#xBE44;&#xC2B7;&#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%28119%29.png)
+![&#xCD5C;&#xB300;&#xD55C; &#xBE44;&#xC2B7;&#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%28120%29.png)
 
 ##  이미지 주소
 

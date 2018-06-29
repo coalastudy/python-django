@@ -11,7 +11,7 @@
 
 ### 아래와 똑같은 페이지를 만들어보세요.
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28150%29.png)
 
 ## 방법
 
