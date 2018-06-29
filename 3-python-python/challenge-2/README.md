@@ -4,7 +4,7 @@
 
 ### 127.0.0.1:8000/event 페이지를 만들어 7번째 방문자에게만 당첨 표시를 띄워보세요.
 
-![127.0.0.1:8000/event &#xC5D0; &#xC811;&#xC18D;&#xD558;&#xBA74; &#xBC29;&#xBB38; &#xCE74;&#xC6B4;&#xD2B8;&#xC5D0; &#xB530;&#xB77C; &#xC704;&#xC5D0; &#xD654;&#xBA74;&#xC774; &#xCD9C;&#xB825;&#xB418;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2821%29.png)
+![127.0.0.1:8000/event &#xC5D0; &#xC811;&#xC18D;&#xD558;&#xBA74; &#xBC29;&#xBB38; &#xCE74;&#xC6B4;&#xD2B8;&#xC5D0; &#xB530;&#xB77C; &#xC704;&#xC5D0; &#xD654;&#xBA74;&#xC774; &#xCD9C;&#xB825;&#xB418;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2825%29.png)
 
 ## 방법
 
