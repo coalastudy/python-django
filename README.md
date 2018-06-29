@@ -6,17 +6,17 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ## 코딩을 배우는 이유는?
 
-![&#xB300;&#xBD80;&#xBD84;&#xC758; &#xD559;&#xAD50;&#xC5D0;&#xC11C; &#xAC00;&#xB974;&#xCE58;&#xC9C0; &#xC54A;&#xB294;&#xAC83;](.gitbook/assets/image%20%28107%29.png)
+![&#xB300;&#xBD80;&#xBD84;&#xC758; &#xD559;&#xAD50;&#xC5D0;&#xC11C; &#xAC00;&#xB974;&#xCE58;&#xC9C0; &#xC54A;&#xB294;&#xAC83;](.gitbook/assets/image%20%28111%29.png)
 
 [youtube에서 보기](https://www.youtube.com/watch?v=lHZxmcP-CHI&t=35s)
 
 ## 코알라의 코딩스터디!
 
-![](.gitbook/assets/image%20%28145%29.png)
+![](.gitbook/assets/image%20%28152%29.png)
 
-![](.gitbook/assets/image%20%2894%29.png)
+![](.gitbook/assets/image%20%2898%29.png)
 
-![](.gitbook/assets/image%20%28189%29.png)
+![](.gitbook/assets/image%20%28197%29.png)
 
 ## 이런 분들에게 추천합니다.
 
@@ -40,19 +40,19 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 1. 목표를 설정합니다.
 
-![](.gitbook/assets/image%20%2874%29.png)
+![](.gitbook/assets/image%20%2877%29.png)
 
 ### 2. 리더를 따라합니다.
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ### 3. 결과를 눈으로 확인합니다.
 
-![](.gitbook/assets/image%20%28112%29.png)
+![](.gitbook/assets/image%20%28116%29.png)
 
 ### 4. 설명을 듣고 원리를 이해합니다.
 
-![](.gitbook/assets/image%20%28106%29.png)
+![](.gitbook/assets/image%20%28110%29.png)
 
 {% hint style="success" %}
 ### 요청드려!
@@ -74,29 +74,29 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 마냥 쉽지는 않습니다.
 
-![Easy but should try](.gitbook/assets/image%20%2893%29.png)
+![Easy but should try](.gitbook/assets/image%20%2896%29.png)
 
 쉽게 코딩을 배우지만 그렇다고 마냥 쉽지는 않아요. 영어공부, 수학공부를 할 때를 생각해봐요. 구구단을 외운 노력에 10%만이라도 투자해주세요.
 
 ### 외울 필요 없어요.
 
-![Do not memorize all](.gitbook/assets/image%20%2888%29.png)
+![Do not memorize all](.gitbook/assets/image%20%2891%29.png)
 
 모든 것을 외울 필요도 없고, 외울 수도 없어요. 자료를 참고하고, 모르는 것은 검색해가면서 문제를 해결하는 능력이 중요해요. 여러분이 모르는 문제는 분명 누군가 물어봤을 거에요.
 
 ### 리더, 멤버와 함께 해요.
 
-![](.gitbook/assets/image%20%2863%29.png)
+![](.gitbook/assets/image%20%2866%29.png)
 
 코딩은 절에서 혼자하는 공부가 아니에요. 리더와 멤버와 함께 공부하며 끝까지 완성해봐요. 코딩을 배우는 가장 좋은 방법은 좋은 코드에 대해 이야기를 나누는거에요.
 
 ## 6주 과정 요약
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2853%29.png)
 
 ## 6주 후 최종 결과
 
-![&#xCD08;&#xB85D;&#xC0C9;\(&#xD544;&#xC218;\) / &#xBE68;&#xAC04;&#xC0C9;\(&#xC2EC;&#xD654;\)](.gitbook/assets/image%20%2837%29.png)
+![&#xCD08;&#xB85D;&#xC0C9;\(&#xD544;&#xC218;\) / &#xBE68;&#xAC04;&#xC0C9;\(&#xC2EC;&#xD654;\)](.gitbook/assets/image%20%2839%29.png)
 
 ## 축하드립니다.
 
