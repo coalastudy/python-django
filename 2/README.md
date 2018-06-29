@@ -4,7 +4,7 @@
 
 ### 웹에 능숙해지기
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 #### 웹 페이지를 구성하는 새로운 방식을 배워봅니다.
 
