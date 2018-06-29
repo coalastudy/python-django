@@ -17,13 +17,13 @@
 나머지가 0이므로, X는 N의 배수입니다.
 {% endhint %}
 
-![&#xC774;&#xB807;&#xAC8C; &#xCF54;&#xB4DC;&#xB97C; &#xC791;&#xC131;&#xD574;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%2823%29.png)
+![&#xC774;&#xB807;&#xAC8C; &#xCF54;&#xB4DC;&#xB97C; &#xC791;&#xC131;&#xD574;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%2825%29.png)
 
 ### 결과학인
 
 아래와 같은 결과가 나와야 제대로 푼 것 입니다.
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 ## 방법
 
