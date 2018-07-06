@@ -4,15 +4,15 @@
 
 ### 도전1에서 작업한 페이스북 PAGE 모델을 수정하고 관리자화면까지 등록해보자
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 페이지 카테고리 필드를 추가합니다. 관리자 페이지에서 관리할 수 있게 설정해줍니다.
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
 이미 만들어져는 모델을 수정하는 상황에서, 필드를 추가할 시에는 반드시 default 값을 지정해주셔야 합니다.
 
-![&#xC608;&#xC81C;](../../.gitbook/assets/image%20%28113%29.png)
+![&#xC608;&#xC81C;](../../.gitbook/assets/image%20%28118%29.png)
 
 ## 문제
 

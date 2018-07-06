@@ -29,5 +29,5 @@
 <button>주문하기</button>
 ```
 
-![&#xC2E4;&#xD589; &#xACB0;&#xACFC;](../.gitbook/assets/image%20%2820%29.png)
+![&#xC2E4;&#xD589; &#xACB0;&#xACFC;](../.gitbook/assets/image%20%2821%29.png)
 
