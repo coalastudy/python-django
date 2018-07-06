@@ -52,5 +52,5 @@ html, css 대표 이미지
 <textarea cols="30" rows="10"></textarea>
 ```
 
-![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image%20%2812%29.png)
+![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image%20%2813%29.png)
 

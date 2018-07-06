@@ -4,7 +4,7 @@
 
 ### `127.0.0.1:8000/내이름/profile` 로 연결되는 다음과 같은 페이지를 만들어보세요.
 
-![&#xD074;&#xB9AD; &#xC2DC; &#xC2E4;&#xC81C;&#xB85C; &#xC774;&#xB3D9;&#xB418;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2877%29.png)
+![&#xD074;&#xB9AD; &#xC2DC; &#xC2E4;&#xC81C;&#xB85C; &#xC774;&#xB3D9;&#xB418;&#xC5B4;&#xC57C; &#xD569;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%2882%29.png)
 
 ## 방법
 
