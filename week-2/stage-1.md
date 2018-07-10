@@ -27,16 +27,7 @@ float은 개체를 공중에 띄웁니다.
 ![float: right;](../.gitbook/assets/image%20%2847%29.png)
 
 ```markup
-<style>
-    .img {
-        width: 150px;
-        height: 100px;
-        float: left;
-        background-color: yellow;
-     }
-</style>
-
-<div class="img">img here</div>
+<div style="width: 150px; height: 100px; float: left; background-color: yellow;">img here</div>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </body>
 ```
@@ -54,23 +45,9 @@ float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 
 ![clear:both;](../.gitbook/assets/image%20%2878%29.png)
 
 ```markup
-<style>
-    .img {
-        width: 150px;
-        height: 100px;
-        float: right;
-        border: 2px solid red;
-    }
-    .box {
-        background-color: orange;
-        clear: both;
-    }
-</style>
-<body>
-    <div class="img">img here</div>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    <div class="box">다른 텍스트</div>
-</body>
+<div style="width: 150px; height: 100px; float: right; border: 2px solid red;">img here</div>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<div style="background-color: orange; clear: both;">다른 텍스트</div>
 ```
 
 ## position
@@ -95,26 +72,9 @@ position을 사용해본적이 없다면 이 설명만으로는 이해하기 어
 ![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xB294; position:absolute;&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xC0C1;&#xD0DC;](../.gitbook/assets/image%20%2881%29.png)
 
 ```markup
-<style>
-    .box1 {
-        width: 300px;
-        height: 200px;
-        background-color: blue;
-        color: #fff;
-    }
+<div style="width: 300px; height: 200px; background-color: blue; color: #fff;">A</div>
 
-    .box2 {
-        top: 35px;
-        left: 40px;
-        position: absolute;
-        width: 200px;
-        height: 150px;
-        background-color: orange;
-        color: #fff;
-    }
-</style>
-<div class="box1">A</div>
-<div class="box2">B</div>
+<div style="top: 35px; left: 40px; position: absolute; width: 200px; height: 150px; background-color: orange; color: #ffffff;">B</div>
 ```
 
 position:abolute 속성을 지정하는 순간, top, left, right, bottom을 함께 지정할 수 있습니다. 이는 각각 맨 위, 맨 왼쪽, 맨 오른쪽, 맨 아래로부터 얼마만큼 떨어져 있나 정할 수 있게 해줍니다. 즉 좌표를 정하는 것처럼 특정 위치에 놓이게 할 수 있죠.
@@ -125,27 +85,8 @@ position:abolute 속성을 지정하는 순간, top, left, right, bottom을 함�
 박스 A에 z-index: 1000이라 하고, 박스 B에 z-index:999라 하면, z-index 값이 높은 A가 더 위에 올라오게 되고, B는 가려지게 되죠. z-index는 0~9999 사이의 값을 사용할 것을 권장합니다.
 
 ```markup
-<style>
-    .box1 {
-        width: 300px;
-        height: 200px;
-        background-color: blue;
-        color: #fff;
-        position: absolute;
-        z-index: 1000;
-    }
-
-    .box2 {
-        top: 35px;
-        left: 40px;
-        position: absolute;
-        width: 200px;
-        height: 150px;
-        background-color: orange;
-        color: #fff;
-        z-index: 999;
-    }
-</style>
+<div style="width: 300px; height: 200px; background-color: blue; color: #fff; position: absolute; z-index: 1000;">A</div>
+<div style="top: 35px; left: 40px; position: absolute; width: 200px; height: 150px; background-color: orange; color: #fff; z-index: 999;">B</div>
 ```
 
 ### relative
@@ -168,11 +109,19 @@ absolute과 똑같은 기준을 사용합니다. 다만 스크롤을 움직여�
 
 display 설정을 안했을때 해당되는 기본 설정입니다. 평소 박스를 그리는 방식과 일치합니다. 박스하나가 한 줄을 통째로 차지하게 되죠.
 
+```markup
+안녕하세요. 저는 <div style="background-color: blue; color: #fff; width: 100px; height: 30px; display: block;">최도근</div>입니다.
+```
+
 ### display:inline
 
 ![display:inline](../.gitbook/assets/image%20%28182%29.png)
 
 마치 박스가 글자처럼 변합니다. 이때는 width, height 같이 블럭의 크기를 지정하는 속성들이 무시됩니다. 글자와 똑같은 상태가 되니까요.
+
+```markup
+안녕하세요. 저는 <div style="background-color: blue; color: #fff; width: 100px; height: 30px; display: inlin;">최도근</div>입니다.
+```
 
 ### display:inline-block
 
@@ -180,11 +129,19 @@ display 설정을 안했을때 해당되는 기본 설정입니다. 평소 박�
 
 박스처럼 부피를 갖으면서 동시에 글자처럼 한줄에 함께 표시될 수 있는 방식입니다. 잘 사용한다면 레이아웃을 만드는데 큰 도움이 됩니다.
 
+```markup
+안녕하세요. 저는 <div style="background-color: blue; color: #fff; width: 100px; height: 30px; display: inline-block;">최도근</div>입니다.
+```
+
 ### display:none
 
 ![display:none](../.gitbook/assets/image%20%2834%29.png)
 
 사라져버립니다.
+
+```markup
+안녕하세요. 저는 <div style="background-color: blue; color: #fff; width: 100px; height: 30px; display:none;">최도근</div>입니다.
+```
 
 ## 배우지 않은 스타일 속성은 어떻게?
 
