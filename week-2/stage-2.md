@@ -103,3 +103,19 @@
 4. **.content에** **margin-left를** **수정해보기**
 5. **margin, padding을** **넣어보기**
 
+## 배우지 않은 스타일 속성은 어떻게?
+
+**Q 폰트에 밑줄을 넣고 싶어요  
+A 구글에 검색하세요!**
+
+구글에 검색하는 것만으로도 간단하게 답을 찾을 수 있습니다. 같이 해볼까요?
+
+![&#xD0A4;&#xC6CC;&#xB4DC;: css &#xD3F0;&#xD2B8; &#xBC11;&#xC904;](../.gitbook/assets/image%20%285%29.png)
+
+![&#xB9E8; &#xC704; &#xC790;&#xB8CC;&#xC758; &#xB0B4;&#xC6A9;](../.gitbook/assets/image%20%28212%29.png)
+
+이 내용을 보면서 깨달을 수 있습니다. **text-decoration: underline;** 을 하면 되는구나! 쉽죠?
+
+만약 영문 검색을 하실 수 있다면 훨씬 정확하게 자료를 찾으실 수 있습니다.  
+**영문 키워드: css font underline**
+

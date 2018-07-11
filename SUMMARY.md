@@ -18,6 +18,7 @@
   * [추천 자료](week-1/references.md)
 * [2주차 - 웹에 능숙해지기](week-2/README.md)
   * [Stage 1 - 다양한 스타일을 배워보자](week-2/stage-1.md)
+  * [Level Up 1 - 기타 style](week-2/level-up-1-style.md)
   * [Stage 2 - 레이아웃을 직접 만들어보자](week-2/stage-2.md)
   * [Challenge 1 - 레이아웃 몸풀기](week-2/challenge-1/README.md)
     * [모범 답안](week-2/challenge-1/solution.md)
