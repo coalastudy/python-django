@@ -12,7 +12,7 @@
 
 해당 페이지에 대한 정보들을 담습니다. head 안에 있는 **title은 브라우저의 탭의 이름**에 해당합니다.
 
-![&amp;lt;title&amp;gt;Stage 2 - &#xB808;&#xC774;&#xC544;&#xC6C3;&#xC744; &#xC9C1;&#xC811; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC790;&amp;lt;/title&amp;gt;](../.gitbook/assets/image%20%28203%29.png)
+![&amp;lt;title&amp;gt;Stage 2 - &#xB808;&#xC774;&#xC544;&#xC6C3;&#xC744; &#xC9C1;&#xC811; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC790;&amp;lt;/title&amp;gt;](../.gitbook/assets/image%20%28205%29.png)
 
 ![&#xC2E4;&#xC81C; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%28140%29.png)
 
@@ -44,7 +44,7 @@
 
 저희가 이번 스터디에서 사용하지는 않습니다. 그러나 **실제 프로젝트에서는 자주 사용**되는 방식으로 알아둘 필요는 있습니다. 파일을 별개로 html파일과 css파일 2개를 구성합니다. 그리고 html 파일에서 css 파일을 불러오는 식으로 사용합니다. 그외 사용법은 내부 스타일시트와 유사합니다.
 
-![test.html](../.gitbook/assets/image%20%28199%29.png)
+![test.html](../.gitbook/assets/image%20%28201%29.png)
 
 ![style.css](../.gitbook/assets/image%20%28117%29.png)
 
@@ -112,7 +112,7 @@ A 구글에 검색하세요!**
 
 ![&#xD0A4;&#xC6CC;&#xB4DC;: css &#xD3F0;&#xD2B8; &#xBC11;&#xC904;](../.gitbook/assets/image%20%285%29.png)
 
-![&#xB9E8; &#xC704; &#xC790;&#xB8CC;&#xC758; &#xB0B4;&#xC6A9;](../.gitbook/assets/image%20%28212%29.png)
+![&#xB9E8; &#xC704; &#xC790;&#xB8CC;&#xC758; &#xB0B4;&#xC6A9;](../.gitbook/assets/image%20%28214%29.png)
 
 이 내용을 보면서 깨달을 수 있습니다. **text-decoration: underline;** 을 하면 되는구나! 쉽죠?
 

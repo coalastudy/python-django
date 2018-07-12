@@ -69,7 +69,7 @@
   * [Stage 4 - 게시글 수정, 삭제 로직 연결](week-5/stage-4.md)
   * [Challenge 2 - 비밀번호 일치할 때 수정하기](week-5/challenge-2/README.md)
     * [모범 답안](week-5/challenge-2/solution.md)
-  * [Level Up 2 -](week-5/level-up-2.md)
+  * [Level Up 2 - 오류 페이지 띄우기](week-5/level-up-2.md)
   * [자율과제 1 - 페이스북 PAGE 만들기 기능 구현](week-5/exercise-1/README.md)
     * [모범 답안](week-5/exercise-1/solution.md)
   * [자율과제 2 - PAGE 수정, 삭제 기능 구현](week-5/exercise-2/README.md)

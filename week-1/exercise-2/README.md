@@ -4,7 +4,7 @@
 
 ### 아래와 똑같은 페이지를 만들어보세요.
 
-![](../../.gitbook/assets/image%20%28179%29.png)
+![](../../.gitbook/assets/image%20%28180%29.png)
 
 ## 배우지 않은 내용
 
@@ -48,7 +48,7 @@
 \[단계3\] 스케치하듯 태그만 간단하게 배치해봅니다.  
 \[단계4\] 코딩을 시작하세요!
 
-![&#xC544;&#xAE4C;&#xCC98;&#xB7FC; &#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xBD80;&#xD130; &#xC9DC;&#xBCF4;&#xAE30;](../../.gitbook/assets/image%20%28184%29.png)
+![&#xC544;&#xAE4C;&#xCC98;&#xB7FC; &#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xBD80;&#xD130; &#xC9DC;&#xBCF4;&#xAE30;](../../.gitbook/assets/image%20%28185%29.png)
 
 
 

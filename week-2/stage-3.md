@@ -27,7 +27,7 @@
 
 ### 3. 좌측에서 Virtualenv Environment를 선택해주세요.
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
 ## 가상환경 설정 - 장고 설치
 
@@ -43,7 +43,7 @@
 
 ### 6. 설치가 끝나길 기다립니다. \(3~10분 소요\)
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
   
 장고 설치가 종료되었습니다. 지금부터는 장고 프로젝트 생성으로 넘어갑니다.
@@ -66,7 +66,7 @@
 ### 3a. django\_env를 찾을 수 없을 경우 직접 추가해줘야 합니다. 찾았다면 4번으로 넘어가주세요.
 {% endhint %}
 
-![3a](../.gitbook/assets/image%20%28208%29.png)
+![3a](../.gitbook/assets/image%20%28210%29.png)
 
 {% hint style="warning" %}
 ### 3b. django\_env를 찾을 수 없을 경우 직접 추가해줘야 합니다.
