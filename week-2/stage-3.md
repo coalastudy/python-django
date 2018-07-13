@@ -19,15 +19,15 @@
 
 ### 1. 파이참을 실행해주세요.
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 ### 2. 좌측에서 Project Interpreter를 선택해주세요.
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 ### 3. 좌측에서 Virtualenv Environment를 선택해주세요.
 
-![](../.gitbook/assets/image%20%28176%29.png)
+![](../.gitbook/assets/image%20%28178%29.png)
 
 ## 가상환경 설정 - 장고 설치
 
@@ -35,7 +35,7 @@
 
 ### 4. 하단에 위치한 + 버튼을 클릭해주세요.
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 ### 5. Django를 검색합니다.
 
@@ -43,7 +43,7 @@
 
 ### 6. 설치가 끝나길 기다립니다. \(3~10분 소요\)
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28175%29.png)
 
   
 장고 설치가 종료되었습니다. 지금부터는 장고 프로젝트 생성으로 넘어갑니다.
@@ -52,27 +52,27 @@
 
 ### 1. 새 프로젝트를 생성합니다.
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28151%29.png)
 
 ### 2. 프로젝트의 이름을 입력합니다. \(ex my\_facebook\)
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 ### 3. Project interpreter에서 앞서 장고를 설치한 환경을 찾아 선택해주어야 합니다.
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 {% hint style="warning" %}
 ### 3a. django\_env를 찾을 수 없을 경우 직접 추가해줘야 합니다. 찾았다면 4번으로 넘어가주세요.
 {% endhint %}
 
-![3a](../.gitbook/assets/image%20%28210%29.png)
+![3a](../.gitbook/assets/image%20%28213%29.png)
 
 {% hint style="warning" %}
 ### 3b. django\_env를 찾을 수 없을 경우 직접 추가해줘야 합니다.
 {% endhint %}
 
-![3b](../.gitbook/assets/image%20%28156%29.png)
+![3b](../.gitbook/assets/image%20%28158%29.png)
 
 ### 4.Create 버튼을 클릭합니다.
 
