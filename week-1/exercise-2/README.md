@@ -4,7 +4,7 @@
 
 ### 아래와 똑같은 페이지를 만들어보세요.
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28186%29.png)
 
 ## 배우지 않은 내용
 
@@ -31,9 +31,9 @@
 반드시 구글에서 검색하셔야 합니다. 지금 당장 **css 우측 상 모서리 둥글게**라고 검색해보세요. 어렵지 않게 방법을 찾으실 수 있습니다.
 {% endhint %}
 
-![&#xB450;&#xBC88;&#xC9F8; &#xAC80;&#xC0C9;&#xACB0;&#xACFC;&#xC5D0; &#xBC14;&#xB85C; &#xD45C;&#xC2DC;&#xB418;&#xB294; &#xBC29;&#xBC95;](../../.gitbook/assets/image%20%28143%29.png)
+![&#xB450;&#xBC88;&#xC9F8; &#xAC80;&#xC0C9;&#xACB0;&#xACFC;&#xC5D0; &#xBC14;&#xB85C; &#xD45C;&#xC2DC;&#xB418;&#xB294; &#xBC29;&#xBC95;](../../.gitbook/assets/image%20%28146%29.png)
 
-![\(&#xCD94;&#xCC9C;\) &#xC601;&#xBB38;&#xAC80;&#xC0C9;&#xC2DC; &#xBCF4;&#xB2E4; &#xC815;&#xD655;&#xD558;&#xACE0; &#xB9CE;&#xC740; &#xC790;&#xB8CC;&#xB97C; &#xD655;&#xC778;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%28161%29.png)
+![\(&#xCD94;&#xCC9C;\) &#xC601;&#xBB38;&#xAC80;&#xC0C9;&#xC2DC; &#xBCF4;&#xB2E4; &#xC815;&#xD655;&#xD558;&#xACE0; &#xB9CE;&#xC740; &#xC790;&#xB8CC;&#xB97C; &#xD655;&#xC778;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../../.gitbook/assets/image%20%28164%29.png)
 
 ## 이미지 주소
 
@@ -48,7 +48,7 @@
 \[단계3\] 스케치하듯 태그만 간단하게 배치해봅니다.  
 \[단계4\] 코딩을 시작하세요!
 
-![&#xC544;&#xAE4C;&#xCC98;&#xB7FC; &#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xBD80;&#xD130; &#xC9DC;&#xBCF4;&#xAE30;](../../.gitbook/assets/image%20%28187%29.png)
+![&#xC544;&#xAE4C;&#xCC98;&#xB7FC; &#xC2A4;&#xCF00;&#xCE58;&#xD558;&#xB4EF; &#xAD6C;&#xC870;&#xBD80;&#xD130; &#xC9DC;&#xBCF4;&#xAE30;](../../.gitbook/assets/image%20%28191%29.png)
 
 
 
