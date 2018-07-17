@@ -36,6 +36,7 @@
   * [Stage 2 -장고로 파이썬 깨닫기 \(2\)](week-3/stage-2.md)
   * [Challenge 1 - 페이지 만들기 및 이동](week-3/challenge-1/README.md)
     * [모범 답안](week-3/challenge-1/solution.md)
+  * [Level Up 1 - 파이참으로 파이썬 실행](week-3/level-up-1.md)
   * [Stage 3 - 파이썬으로 장고 깨닫기](week-3/stage-3.md)
   * [Stage 4 - 장고 구조 살펴보기](week-3/stage-4.md)
   * [Challenge 2 - 이벤트 페이지 만들기](week-3/challenge-2/README.md)
