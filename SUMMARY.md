@@ -48,6 +48,7 @@
   * [추천자료](week-3/references.md)
 * [4주차 - 살아있는 뉴스피드 만들기](week-4/README.md)
   * [Stage 1 - 함께하는 페이스북 디자인](week-4/stage-1.md)
+  * [Level Up 1 - 스크롤 개선](week-4/level-up-1.md)
   * [Stage 2 - 게시글 모델링](week-4/stage-2.md)
   * [Challegne  1 - 모델링 연습](week-4/challegne-1/README.md)
     * [모범 답안](week-4/challegne-1/solution.md)
