@@ -47,6 +47,7 @@
     * [모범 답안](week-3/exercise-2/solution.md)
   * [추천자료](week-3/references.md)
 * [4주차 - 살아있는 뉴스피드 만들기](week-4/README.md)
+  * [Pre - 실습 코드 복사](week-4/pre.md)
   * [Stage 1 - 함께하는 페이스북 디자인](week-4/stage-1.md)
   * [Level Up 1 - 스크롤 개선](week-4/level-up-1.md)
   * [Stage 2 - 게시글 모델링](week-4/stage-2.md)
