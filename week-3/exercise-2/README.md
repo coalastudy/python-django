@@ -23,7 +23,7 @@
 
 아래와 같은 결과가 나와야 제대로 푼 것 입니다.
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
 ## 방법
 

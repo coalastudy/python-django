@@ -4,7 +4,7 @@
 
 ### 피드에 코멘트 달기
 
-![&#xCF54;&#xBA58;&#xD2B8; &#xC2DC;&#xC2A4;&#xD15C; &#xB9CC;&#xB4E4;&#xACE0; &#xC678;&#xBD80;&#xC5D0; &#xBC30;&#xD3EC;&#xD558;&#xAE30;](../.gitbook/assets/image%20%28243%29.png)
+![&#xCF54;&#xBA58;&#xD2B8; &#xC2DC;&#xC2A4;&#xD15C; &#xB9CC;&#xB4E4;&#xACE0; &#xC678;&#xBD80;&#xC5D0; &#xBC30;&#xD3EC;&#xD558;&#xAE30;](../.gitbook/assets/image%20%28255%29.png)
 
 지난시간 유저들이 접속해서 글을 쓰고 수정하고 삭제할 수 있는 타임라인을 완성했습니다. 여기에 코멘트 기능까지 추가합니다.
 

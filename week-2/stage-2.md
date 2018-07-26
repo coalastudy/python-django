@@ -12,9 +12,9 @@
 
 해당 페이지에 대한 정보들을 담습니다. head 안에 있는 **title은 브라우저의 탭의 이름**에 해당합니다.
 
-![&amp;lt;title&amp;gt;Stage 2 - &#xB808;&#xC774;&#xC544;&#xC6C3;&#xC744; &#xC9C1;&#xC811; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC790;&amp;lt;/title&amp;gt;](../.gitbook/assets/image%20%28232%29.png)
+![&amp;lt;title&amp;gt;Stage 2 - &#xB808;&#xC774;&#xC544;&#xC6C3;&#xC744; &#xC9C1;&#xC811; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC790;&amp;lt;/title&amp;gt;](../.gitbook/assets/image%20%28244%29.png)
 
-![&#xC2E4;&#xC81C; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%28155%29.png)
+![&#xC2E4;&#xC81C; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%28163%29.png)
 
 실제로 이 페이지의 소스코드를 살펴보면 title이 위와 같이 정의되어 있습니다. \(data-react-helmet은 무시해도, 쓰지 않아도 상관없습니다.\) title 이외에 페이지에 대한 설명, 키워드 등 개괄적인 정보를 담을 수도 있습니다.
 
@@ -34,7 +34,7 @@
 
 저희가 앞으로 애용할 방식입니다. 정리도 쉽고 사용법도 쉬워 초보자에게 안성맞춤인 방식입니다.
 
-![Internal Style Sheet](../.gitbook/assets/image%20%2881%29.png)
+![Internal Style Sheet](../.gitbook/assets/image%20%2885%29.png)
 
 여기서 주목할 점은 **class="test\_class"**입니다. 저 말은, test\_class라는 정의를 **&lt;style&gt;&lt;/style&gt;** 태그 사이에서 찾아 적용하겠다는 것을 의미합니다. **.test\_class**에서 **. \(온점\)**은 클래스를 의미하며, **class="test\_class"라 정의된 모든 개체의 배경색은 파란색으로 지정**됩니다.
 
@@ -44,9 +44,9 @@
 
 저희가 이번 스터디에서 사용하지는 않습니다. 그러나 **실제 프로젝트에서는 자주 사용**되는 방식으로 알아둘 필요는 있습니다. 파일을 별개로 html파일과 css파일 2개를 구성합니다. 그리고 html 파일에서 css 파일을 불러오는 식으로 사용합니다. 그외 사용법은 내부 스타일시트와 유사합니다.
 
-![test.html](../.gitbook/assets/image%20%28228%29.png)
+![test.html](../.gitbook/assets/image%20%28240%29.png)
 
-![style.css](../.gitbook/assets/image%20%28130%29.png)
+![style.css](../.gitbook/assets/image%20%28136%29.png)
 
 ## 2단 레이아웃
 
@@ -112,7 +112,7 @@ A 구글에 검색하세요!**
 
 ![&#xD0A4;&#xC6CC;&#xB4DC;: css &#xD3F0;&#xD2B8; &#xBC11;&#xC904;](../.gitbook/assets/image%20%286%29.png)
 
-![&#xB9E8; &#xC704; &#xC790;&#xB8CC;&#xC758; &#xB0B4;&#xC6A9;](../.gitbook/assets/image%20%28241%29.png)
+![&#xB9E8; &#xC704; &#xC790;&#xB8CC;&#xC758; &#xB0B4;&#xC6A9;](../.gitbook/assets/image%20%28253%29.png)
 
 이 내용을 보면서 깨달을 수 있습니다. **text-decoration: underline;** 을 하면 되는구나! 쉽죠?
 
