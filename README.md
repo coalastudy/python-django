@@ -20,7 +20,7 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ![](.gitbook/assets/image%20%28226%29.png)
 
-![](.gitbook/assets/image%20%28269%29.png)
+![](.gitbook/assets/image%20%28270%29.png)
 
 ## 이런 분들에게 추천합니다.
 

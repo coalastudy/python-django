@@ -63,6 +63,7 @@
     * [모범 답안](week-4/exercise-2/solution.md)
   * [추천자료](week-4/references.md)
 * [5주차 - 함께 만드는 뉴스피드](week-5/README.md)
+  * [Pre - 실습 코드 복사](week-5/pre.md)
   * [Stage 1 - 게시글 쓰기 페이지 만들기](week-5/stage-1.md)
   * [Stage 2 - 게시글 생성 로직 연결](week-5/stage-2.md)
   * [Level Up 1 - 게시물 작성 후](week-5/level-up-1.md)
