@@ -1,7 +1,7 @@
 # 추천 자료
 
 | 제목 | 주소 | 특징 |
-| --- | --- |
+| :--- | :--- | :--- |
 | 생활코딩 CSS | [https://opentutorials.org/course/2418/13339](https://opentutorials.org/course/2418/13339) | 온라인강의 |
 | 생활코딩 WEB2 - CSS | [https://opentutorials.org/course/3086/18318](https://opentutorials.org/course/3086/18318) | 온라인강의 |
 | css 레이아웃을 배웁시다. | [http://ko.learnlayout.com/](http://ko.learnlayout.com/) |  |

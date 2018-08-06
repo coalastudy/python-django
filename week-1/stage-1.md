@@ -6,7 +6,7 @@ description: html과 css에 대해 간단히 살펴본 후 태그를 사용하�
 
 ## HTML과 CSS
 
-![1991&#xB144; &#xACBD; &#xB9CC;&#xB4E4;&#xC5B4;&#xC9C4; &#xD6C4; &#xACC4;&#xC18D;&#xD558;&#xC5EC; &#xBC1C;&#xC804;&#xB418;&#xC5B4;&#xC628; &#xADDC;&#xCE59;&#xC774;&#xC790; &#xAE30;&#xC220;](../.gitbook/assets/image%20%2844%29.png)
+![1991&#xB144; &#xACBD; &#xB9CC;&#xB4E4;&#xC5B4;&#xC9C4; &#xD6C4; &#xACC4;&#xC18D;&#xD558;&#xC5EC; &#xBC1C;&#xC804;&#xB418;&#xC5B4;&#xC628; &#xADDC;&#xCE59;&#xC774;&#xC790; &#xAE30;&#xC220;](../.gitbook/assets/image%20%2850%29.png)
 
 ### html
 
@@ -18,9 +18,9 @@ description: html과 css에 대해 간단히 살펴본 후 태그를 사용하�
 
 ### 네이버의 html과 css
 
-![&#xB124;&#xC774;&#xBC84;&#xC758; &#xB85C;&#xADF8;&#xC778;&#xCC3D;](../.gitbook/assets/image%20%2865%29.png)
+![&#xB124;&#xC774;&#xBC84;&#xC758; &#xB85C;&#xADF8;&#xC778;&#xCC3D;](../.gitbook/assets/image%20%2872%29.png)
 
-![&#xB124;&#xC774;&#xBC84;&#xC758; &#xD398;&#xC774;&#xC9C0; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%28151%29.png)
+![&#xB124;&#xC774;&#xBC84;&#xC758; &#xD398;&#xC774;&#xC9C0; &#xC18C;&#xC2A4;&#xCF54;&#xB4DC;](../.gitbook/assets/image%20%28172%29.png)
 
 이처럼 모든 웹사이트는 html과 css로 이루어져있습니다. html로 요소를 배치하고 css로 스타일을 만들어주는거죠.
 
@@ -30,7 +30,7 @@ html, css 외에도 큰 축을 담당하는 javascript가 있습니다. 모든 �
 
 ## Hello World!
 
-![&#xC6F9;&#xC5D0; Hello World! &#xB744;&#xC6CC;&#xBCF4;&#xC790;!](../.gitbook/assets/image%20%28153%29.png)
+![&#xC6F9;&#xC5D0; Hello World! &#xB744;&#xC6CC;&#xBCF4;&#xC790;!](../.gitbook/assets/image%20%28174%29.png)
 
 자, 이제 설치하신 visual studio code를 실행하세요. 그리고 바탕화면에 test.html이라고 저장하고, 내용에는 과감하게 Hello World!라는 글자를 입력합니다.
 
@@ -42,9 +42,9 @@ html, css 외에도 큰 축을 담당하는 javascript가 있습니다. 모든 �
 
 사실 Hello World!라는 검고 작은 텍스트를 띄우는 것만으로는 웹페이지를 만들기 어렵죠. 어떤 글은 진해야하고 어떤 글은 크기가 커야하고 또 다른 색으로 바꿀 수도 있어야 해요. 어딘가에는 버튼을 배치해야하고 어딘가에는 이미지를 넣어야하는거죠. 이렇게 특별한 목적과 기능을 가진 요소를 배치하는 방법으로 html에서는 태그를 사용하고 있습니다.
 
-![&#xD0DC;&#xADF8;&#xC758; &#xAE30;&#xBCF8;&#xC801;&#xC778; &#xC0AC;&#xC6A9;&#xBC95;](../.gitbook/assets/image%20%28185%29.png)
+![&#xD0DC;&#xADF8;&#xC758; &#xAE30;&#xBCF8;&#xC801;&#xC778; &#xC0AC;&#xC6A9;&#xBC95;](../.gitbook/assets/image%20%28210%29.png)
 
-![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2827%29.png)
+![&#xC608;&#xC81C;](../.gitbook/assets/image%20%2831%29.png)
 
 태그는 여는쪽과 닫는쪽이 있어요. b 태그는 안에 들어있는 내용물의 글자를 진하게 만드는 기능이 있습니다.
 
@@ -63,7 +63,7 @@ html, css 외에도 큰 축을 담당하는 javascript가 있습니다. 모든 �
 그럼 지금부터 간단하고 중요한 4가지 태그 세트를 배워볼게요.
 
 | **태그** | **설명** | **사용 예** |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | h1, h2, h3, h4, h5, h6 | 텍스트를 제목 글씨체\(headline\)로 만듭니다. | `<h1>제목입니다</h1>` |
 | br | 한줄 띄어쓰기 | `안녕하세요?<br>저는...` |
 | b | 글자 진하게 | `오늘은 <b>태그</b>를 배워봅니다.` |
@@ -84,5 +84,5 @@ html <b>태그</b>란 말을 많이 들어봤죠?<br>
 <a href="http://naver.com">여기를 클릭하세요!</a>
 ```
 
-![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image%20%28220%29.png)
+![&#xACB0;&#xACFC;&#xBB3C;](../.gitbook/assets/image%20%28247%29.png)
 

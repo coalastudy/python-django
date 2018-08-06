@@ -6,9 +6,9 @@
 
 어떤 내용으로 글을 작성하더라도, 글의 내용 마지막에 `- 추신: 감사합니다.`가 따라나오게 만들어 봅시다. 즉 글 내용에 추신을 첨가하여 저장시킵니다.
 
-![&#xAE00;&#xC4F0;&#xB294; &#xC911;](../../.gitbook/assets/image%20%2813%29.png)
+![&#xAE00;&#xC4F0;&#xB294; &#xC911;](../../.gitbook/assets/image%20%2815%29.png)
 
-![&#xAE00; &#xC4F4; &#xD6C4;](../../.gitbook/assets/image%20%28133%29.png)
+![&#xAE00; &#xC4F4; &#xD6C4;](../../.gitbook/assets/image%20%28153%29.png)
 
 
 

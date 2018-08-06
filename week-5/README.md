@@ -4,7 +4,7 @@
 
 ### 유저들이 직접 참여할 수 있는 뉴스피드 만들기
 
-![&#xC720;&#xC800;&#xB4E4;&#xC774; &#xAE00;&#xC744; &#xC4F0;&#xACE0; &#xC62C;&#xB9B4; &#xC218; &#xC788;&#xAC8C; &#xB9CC;&#xB4E4;&#xAE30;](../.gitbook/assets/image%20%2884%29.png)
+![&#xC720;&#xC800;&#xB4E4;&#xC774; &#xAE00;&#xC744; &#xC4F0;&#xACE0; &#xC62C;&#xB9B4; &#xC218; &#xC788;&#xAC8C; &#xB9CC;&#xB4E4;&#xAE30;](../.gitbook/assets/image%20%2894%29.png)
 
 이전 시간에는 관리자만 뉴스피드에 글을 올릴 수 있었습니다. 이제 일반 사용자들이 글을 올릴 수 있도록 글 입력 Form을 만들어 볼 것입니다.
 

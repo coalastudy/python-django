@@ -6,7 +6,7 @@
 
 게시글을 수정/삭제하는 것 처럼 페이지를 수정/삭제 할 수 있도록 합니다. 페이지 수정 주소는 `http://127.0.0.1/pages/{페이지 번호}/edit/` 페이지 삭제 주소는 `http://127.0.0.1/pages/{페이지 번호}/remove/` 으로 설정해줍니다. 수정, 삭제 버튼을 따로 만들지 않고 위 주소로 직접 접속하겠습니다.
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28190%29.png)
 
-![](../../.gitbook/assets/image%20%28261%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 

@@ -10,17 +10,17 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ## 코딩을 배우는 이유는?
 
-![&#xB300;&#xBD80;&#xBD84;&#xC758; &#xD559;&#xAD50;&#xC5D0;&#xC11C; &#xAC00;&#xB974;&#xCE58;&#xC9C0; &#xC54A;&#xB294;&#xAC83;](.gitbook/assets/image%20%28149%29.png)
+![&#xB300;&#xBD80;&#xBD84;&#xC758; &#xD559;&#xAD50;&#xC5D0;&#xC11C; &#xAC00;&#xB974;&#xCE58;&#xC9C0; &#xC54A;&#xB294;&#xAC83;](.gitbook/assets/image%20%28170%29.png)
 
 [youtube에서 보기](https://www.youtube.com/watch?v=lHZxmcP-CHI&t=35s)
 
 ## 코알라의 코딩스터디!
 
-![](.gitbook/assets/image%20%28210%29.png)
+![](.gitbook/assets/image%20%28236%29.png)
 
-![](.gitbook/assets/image%20%28226%29.png)
+![](.gitbook/assets/image%20%28253%29.png)
 
-![](.gitbook/assets/image%20%28270%29.png)
+![](.gitbook/assets/image%20%28298%29.png)
 
 ## 이런 분들에게 추천합니다.
 
@@ -40,23 +40,27 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
  개발자를 꿈꾸거나 개발자체에 관심이 있는 학생, 그리고 실전 웹 코딩과는 거리가 멀었던 개발자들에게 알맞습니다. 이론으로만 간단히 알던 내용을 웹에 띄우는 실전을 경험할 것 입니다.
 
+## 도달 가능한 레벨
+
+![](.gitbook/assets/image%20%28109%29.png)
+
 ## 스터디 방식
 
 ### 1. 목표를 설정합니다.
 
-![](.gitbook/assets/image%20%28100%29.png)
+![](.gitbook/assets/image%20%28114%29.png)
 
 ### 2. 리더를 따라합니다.
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ### 3. 결과를 눈으로 확인합니다.
 
-![](.gitbook/assets/image%20%28154%29.png)
+![](.gitbook/assets/image%20%28175%29.png)
 
 ### 4. 설명을 듣고 원리를 이해합니다.
 
-![](.gitbook/assets/image%20%28148%29.png)
+![](.gitbook/assets/image%20%28169%29.png)
 
 {% hint style="success" %}
 ### 요청드려!
@@ -70,7 +74,7 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 코알라 짝 코딩 제도
 
-![&#xCF54;&#xC54C;&#xB77C; &#xC9DD;&#xCF54;&#xB529;&#xC81C;&#xB3C4;](.gitbook/assets/image%20%288%29.png)
+![&#xCF54;&#xC54C;&#xB77C; &#xC9DD;&#xCF54;&#xB529;&#xC81C;&#xB3C4;](.gitbook/assets/image%20%2810%29.png)
 
 높은 집중력을 유지하며 옆 사람과의 토론을 통해 어려운 문제를 해결하는 코알라의 학습 방식입니다. 리더의 요청에 따라 짝과의 활발한 교류, 논의를 진행하신다면 어떠한 문제라도 해결하실 수 있습니다.
 
@@ -78,29 +82,29 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 마냥 쉽지는 않습니다.
 
-![Easy but should try](.gitbook/assets/image%20%28122%29.png)
+![Easy but should try](.gitbook/assets/image%20%28139%29.png)
 
 쉽게 코딩을 배우지만 그렇다고 마냥 쉽지는 않아요. 영어공부, 수학공부를 할 때를 생각해봐요. 구구단을 외운 노력에 10%만이라도 투자해주세요.
 
 ### 외울 필요 없어요.
 
-![Do not memorize all](.gitbook/assets/image%20%28115%29.png)
+![Do not memorize all](.gitbook/assets/image%20%28132%29.png)
 
 모든 것을 외울 필요도 없고, 외울 수도 없어요. 자료를 참고하고, 모르는 것은 검색해가면서 문제를 해결하는 능력이 중요해요. 여러분이 모르는 문제는 분명 누군가 물어봤을 거에요.
 
 ### 리더, 멤버와 함께 해요.
 
-![](.gitbook/assets/image%20%2886%29.png)
+![](.gitbook/assets/image%20%2896%29.png)
 
 코딩은 절에서 혼자하는 공부가 아니에요. 리더와 멤버와 함께 공부하며 끝까지 완성해봐요. 코딩을 배우는 가장 좋은 방법은 좋은 코드에 대해 이야기를 나누는거에요.
 
 ## 6주 과정 요약
 
-![](.gitbook/assets/image%20%2866%29.png)
+![](.gitbook/assets/image%20%2873%29.png)
 
 ## 6주 후 최종 결과
 
-![&#xCD08;&#xB85D;&#xC0C9;\(&#xD544;&#xC218;\) / &#xBE68;&#xAC04;&#xC0C9;\(&#xC2EC;&#xD654;\)](.gitbook/assets/image%20%2846%29.png)
+![&#xCD08;&#xB85D;&#xC0C9;\(&#xD544;&#xC218;\) / &#xBE68;&#xAC04;&#xC0C9;\(&#xC2EC;&#xD654;\)](.gitbook/assets/image%20%2853%29.png)
 
 ## 축하드립니다.
 

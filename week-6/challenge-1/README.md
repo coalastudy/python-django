@@ -6,9 +6,9 @@
 
 ### **미션1\)** **디자인** **변경**
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 ### 미션2\) input과 textarea의 name을 다음과 같이 수정하여도 코멘트 등록이 되도록 하기
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 

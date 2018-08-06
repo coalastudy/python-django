@@ -5,7 +5,7 @@
 지난 시간에 필수로 알아야하는 태그들과 스타일을 배웠습니다. 이번 시간에는 좀 더 다양한 스타일을 배워볼까요?
 
 | 스타일 | 설 | 사용 예 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | font-size | 글자 크기 | `<div style=“font-size:40px;”>큰 글자</div>` |
 | font-weight | 글자 굵기\(100, 200, …, 800\) | `<div style=“font-weight:800;”>진한 글자</div>` |
 | text-align | 글자 정렬\(left, right, center\) | `<div style=“text-align:center;”>가운데 정렬</div>` |
@@ -18,7 +18,7 @@
 
 float은 개체를 공중에 띄웁니다.
 
-![&#xD55C;&#xAE00;\(&#xC6CC;&#xB4DC;&#xD504;&#xB85C;&#xC138;&#xC11C;\)&#xC758; &#xBC30;&#xCE58; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%28196%29.png)
+![&#xD55C;&#xAE00;\(&#xC6CC;&#xB4DC;&#xD504;&#xB85C;&#xC138;&#xC11C;\)&#xC758; &#xBC30;&#xCE58; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%28222%29.png)
 
 한글로 치면, 가장 왼쪽의 나비모양에 해당하겠네요.
 
@@ -32,9 +32,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </body>
 ```
 
-![float: left;](../.gitbook/assets/image%20%28213%29.png)
+![float: left;](../.gitbook/assets/image%20%28239%29.png)
 
-![float: right;](../.gitbook/assets/image%20%2864%29.png)
+![float: right;](../.gitbook/assets/image%20%2871%29.png)
 
 left를 right으로도 바꿔보세요.
 
@@ -48,7 +48,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 입니다.
 
-![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xC640; &#xBE68;&#xAC04;&#xC0C9; &#xBC15;&#xC2A4;&#xAC00; &#xACB9;&#xCE58;&#xACE0; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%28130%29.png)
+![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xC640; &#xBE68;&#xAC04;&#xC0C9; &#xBC15;&#xC2A4;&#xAC00; &#xACB9;&#xCE58;&#xACE0; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%28150%29.png)
 
 빨간색 박스는 **float:right;** 을 통해 오른쪽에 띄운 상태입니다. 그런데 주황색 박스와 겹치고 있네요. 주황색 박스를 겹치지 않게 내리고 싶으면 어떻게 해야 할까요?
 
@@ -56,7 +56,7 @@ float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 
 
 이럴 때 clear를 사용합니다. 주황색 박스에 **clear:both;** 속성을 넣어보세요.
 
-![clear:both](../.gitbook/assets/image%20%28124%29.png)
+![clear:both](../.gitbook/assets/image%20%28144%29.png)
 
 ```markup
 <div style="width: 150px; height: 100px; float: right; background-color: yellow;">img here</div>
@@ -73,7 +73,7 @@ float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 
 **position**은 **absolute, relative, fixed, static**의 속성을 지정할 수 있습니다.
 
 | 스타일 | 속성 | 설명 |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | position | absolute | 절대 좌표를 기준으로 표시한다. |
 |  | relative | 개체의 현재 위치로부터 상대좌표로 표시한다. |
 |  | fixed | 항상 그 위치에 띄운다. |
@@ -95,7 +95,7 @@ position을 사용해본적이 없다면 이 설명만으로는 이해하기 어
 
 개체를 서로 겹치게 하려면 지금까지 배운 방법으로는 float을 사용해야합니다. 그러나 float은 공중에 띄울뿐 위치에 대한 미세한 컨트롤은 어렵죠. 이럴 때는 **position:absolute;**을 이용해 개체의 절대 좌표를 지정할 수 있습니다.
 
-![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xB294; position:absolute;&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xC0C1;&#xD0DC;](../.gitbook/assets/image%20%2893%29.png)
+![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xB294; position:absolute;&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xC0C1;&#xD0DC;](../.gitbook/assets/image%20%28104%29.png)
 
 ```markup
 <br><br><br>
