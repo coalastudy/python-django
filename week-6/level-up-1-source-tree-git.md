@@ -28,11 +28,42 @@
 
 소스트리의 사용법을 아주 잘 설명한 자료들을 소개합니다.
 
-|  | 제목 | 주 | 특 |
-| :--- | :--- | :--- | :--- |
-| 1 | 초심자를 위한 Github 협업 튜토리얼 \(with 토끼와 거북이\) | [https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/) | 자세한 설명 |
-| 2 | Git 설치와 사용법\(SourceTree\) | [http://gbsb.tistory.com/9](http://gbsb.tistory.com/9) | 자세한 설명 |
-| 3 |  | [http://jy-doromi.tistory.com/34](http://jy-doromi.tistory.com/34) | 간단한 설명 |
-
-저희 스터디에서는 소스트리의 **'커밋', '푸시' 기능**만 사용합니다. 위의 메뉴얼에서 이 두가지 기능만 확인하시거나 시간이 허락된다면 전체적으로 살펴보셔도 좋습니다.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">제목</th>
+      <th style="text-align:left">주</th>
+      <th style="text-align:left">특</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)</td>
+      <td style="text-align:left"><a href="https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/">https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/</a>
+      </td>
+      <td style="text-align:left">자세한 설명</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Git 설치와 사용법(SourceTree)</td>
+      <td style="text-align:left"><a href="http://gbsb.tistory.com/9">http://gbsb.tistory.com/9</a>
+      </td>
+      <td style="text-align:left">자세한 설명</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">
+        <p></p>
+        <ol>
+          <li>깃&소스트리 사용법</li>
+        </ol>
+      </td>
+      <td style="text-align:left"><a href="http://jy-doromi.tistory.com/34">http://jy-doromi.tistory.com/34</a>
+      </td>
+      <td style="text-align:left">간단한 설명</td>
+    </tr>
+  </tbody>
+</table>저희 스터디에서는 소스트리의 **'커밋', '푸시' 기능**만 사용합니다. 위의 메뉴얼에서 이 두가지 기능만 확인하시거나 시간이 허락된다면 전체적으로 살펴보셔도 좋습니다.
 

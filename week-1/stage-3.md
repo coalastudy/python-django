@@ -11,9 +11,7 @@
 | span | 글자 블록을 만듭니다. | `제 이름은 <span>최도근</span>입니다.` |
 | p | 글 단락\(paragraph\)을 만듭니다. | `<p>단락1<br/>내용</p> <p>단락2<br/>내용2</p>` |
 | ul, li | 목록을 만듭니다. | `<ul> <li>딸기</li> <li>사과</li> <li>포도</li> </ul>` |
-| button | 버튼을 만듭니다. | `<a href=“http://naver.com”>여기를 누르시면 네이버로 이동합니다.</a>` |
-
-## 실습
+| button | 버튼을 만듭니다. | &lt;button&gt;버튼&lt;/button&gt; |
 
 아래 내용을 직접 타이핑하면서 이해해봅시다.
 
