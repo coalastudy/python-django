@@ -39,6 +39,12 @@ terminal을 클릭하고 `python - -version` 을 입력합니다. 이어서 `pip
   
 장고 프로젝트 Setting을 완료했습니다. 지금부터는 장고프로젝트를 **실행**해보겠습니다.
 
+{% hint style="info" %}
+#### 윈도우 한글 호스트명 문제해결법
+
+윈도우 계정명이 한글일 경우 장고 실행 문제가 발생할 수 있습니다. **cmd**에서 다음 명령을 입력해주세요. `wmic ComputerSystem Where Name=%COMPUTERNAME% Call Rename Name=원하는영문호스트명`
+{% endhint %}
+
 ## 장고 프로젝트 실행
 
 ### 1. 메뉴 -&gt; run -&gt; edit configurations 실행합니다.
