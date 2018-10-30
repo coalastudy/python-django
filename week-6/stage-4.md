@@ -30,7 +30,9 @@
 
 #### 9. 터미널에 다음 두 명령을 입력합니다. 
 
-`python manage.py makemigrations python manage.py migrate`
+`python manage.py makemigrations`
+
+`python manage.py migrate`
 
 #### 10. 관리자 계정도 새로 만들어줍니다. 
 
@@ -117,8 +119,14 @@ application = StaticFilesHandler(get_wsgi_application())
 
 #### 1. Pycharm terminal을 열고 다음과 같이 입력합니다.
 
+git에 커밋을 한 후,
+
 `git add -A`  
 `git commit -m “Republish Test”`
+
+github에 업로드해야합니다.
+
+`git push -u origin master` \(왼쪽 명령이 작동하지 않을 경우 `git push origin master`\)
 
 #### 2. [https://www.pythonanywhere.com](https://www.pythonanywhere.com) 에 로그입합니다.
 

@@ -44,7 +44,7 @@ terminal을 클릭하고 `python - -version` 을 입력합니다. 이어서 `pip
 
 _**error UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte**_
 
-윈도우 계정명이 한글일 경우 위와 같 장고 실행 문제가 발생할 수 있습니다. **cmd**에서 다음 명령을 입력해주세요. `wmic ComputerSystem Where Name=%COMPUTERNAME% Call Rename Name=원하는영문호스트명`
+윈도우 계정명이 한글일 경우 위와 같 장고 실행 문제가 발생할 수 있습니다. **cmd\(명령 프롬포트\)**를 **관리자 권한**으로 실행하신 후서 다음 명령을 입력해주세요. `wmic ComputerSystem Where Name=%COMPUTERNAME% Call Rename Name=원하는영문호스트명`
 {% endhint %}
 
 ## 장고 프로젝트 실행
