@@ -1,5 +1,7 @@
 # 모범 답안
 
+{% code-tabs %}
+{% code-tabs-item title="쉬운 방법" %}
 ```markup
 <div style="width:280px; padding:15px; background-color:#fafafa; border:1px solid #ddd; border-bottom-right-radius:30px;">
     <img src="http://weac.org/wp-content/uploads/2014/06/instagram-logo_100px.jpg" style="border-radius:100%; border: 2px solid #666666;"><br><br>
@@ -10,4 +12,23 @@
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 </div>
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="다른 방법" %}
+```markup
+<div style="width:280px; padding:15px; background-color:#fafafa; border:1px solid #ddd; border-bottom-right-radius:30px;">
+    <div style="width: 100px; height: 100px; overflow:hidden; border-radius:100%; border: 2px solid #666666; position: relative;">
+        <img width="50px" height="50px" style="position:absolute; top:50%; margin-top: -25px; left: 50%; margin-left: -25px;" src="http://weac.org/wp-content/uploads/2014/06/instagram-logo_100px.jpg">
+    </div>
+    210M <span style="color:#4656ed">followers</span><br>
+    <button style="border: 0px; background-color:#728edb; padding: 8px 14px; color: #ffffff;">follow</button>
+
+    <h2>What is Lorem Ipsum?</h2>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</div>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
