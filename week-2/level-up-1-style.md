@@ -43,7 +43,7 @@ absolute을 설정하면 **top, bottomm right, left**는 **맨 위/아래/오른
 
 absolute과 똑같은 기준을 사용합니다. 다만 스크롤을 움직여서 창이 보고 있는 화면이 바뀌어도 해당 좌표에 고정된 개체가 따라옵니다. 뉴스 기사를 읽다보면 오른쪽 아래에 **'맨 위로'**라는 버튼이 계속 떠 있는 것을 볼 수 있는데요. 이 같은 경우 fixed로 고정해두어 항상 그 자리에 위치하게끔 설정해둔 것 이랍니다.
 
-![&#xC77C;&#xBC18;&#xC801;&#xC73C;&#xB85C; &#xB9E8;&#xC704;&#xB85C; &#xBC84;&#xD2BC;&#xC740; &#xD56D;&#xC0C1; &#xADF8;&#xC790;&#xB9AC;&#xC5D0; &#xACE0;&#xC815;&#xB418;&#xC5B4; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%28295%29.png)
+![&#xC77C;&#xBC18;&#xC801;&#xC73C;&#xB85C; &#xB9E8;&#xC704;&#xB85C; &#xBC84;&#xD2BC;&#xC740; &#xD56D;&#xC0C1; &#xADF8;&#xC790;&#xB9AC;&#xC5D0; &#xACE0;&#xC815;&#xB418;&#xC5B4; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%28297%29.png)
 
 ## dispaly
 
@@ -51,7 +51,7 @@ absolute과 똑같은 기준을 사용합니다. 다만 스크롤을 움직여�
 
 ### display:block
 
-![display:block](../.gitbook/assets/image%20%28196%29.png)
+![display:block](../.gitbook/assets/image%20%28197%29.png)
 
 display 설정을 안했을때 해당되는 기본 설정입니다. 평소 박스를 그리는 방식과 일치합니다. 박스하나가 한 줄을 통째로 차지하게 되죠.
 
@@ -61,7 +61,7 @@ display 설정을 안했을때 해당되는 기본 설정입니다. 평소 박�
 
 ### display:inline
 
-![display:inline](../.gitbook/assets/image%20%28246%29.png)
+![display:inline](../.gitbook/assets/image%20%28247%29.png)
 
 마치 박스가 글자처럼 변합니다. 이때는 width, height 같이 블럭의 크기를 지정하는 속성들이 무시됩니다. 글자와 똑같은 상태가 되니까요.
 
@@ -71,7 +71,7 @@ display 설정을 안했을때 해당되는 기본 설정입니다. 평소 박�
 
 ### display:inline-block
 
-![display:inline-block](../.gitbook/assets/image%20%28183%29.png)
+![display:inline-block](../.gitbook/assets/image%20%28184%29.png)
 
 박스처럼 부피를 갖으면서 동시에 글자처럼 한줄에 함께 표시될 수 있는 방식입니다. 잘 사용한다면 레이아웃을 만드는데 큰 도움이 됩니다.
 

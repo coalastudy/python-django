@@ -4,7 +4,7 @@
 
 ### `127.0.0.1/pages` 접속 시 페이스북 PAGE 리스트를 볼 수 있도록 합니다.
 
-![](../../.gitbook/assets/image%20%28228%29.png)
+![](../../.gitbook/assets/image%20%28229%29.png)
 
 ## 방법
 

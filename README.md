@@ -1,12 +1,23 @@
 ---
-description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환영합니다.
+description: >-
+  FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환영합니다. 이 온라인 자료가 코딩을 배우시는 모든 분께 도움이 되길 바랍니다.
+  이 자료는 무료입니다!
 ---
 
-# 파이썬 장고
+# FACEBOOK 함께 만들며 배우는 웹개발
+
+## 직접 배우고 싶다면 `코딩좀알려주라`로 오세요!
+
+![&#xC18C;&#xADDC;&#xBAA8; &#xCF54;&#xB529; &#xAC15;&#xC758;, &#xB9CC;&#xC871;&#xB3C4; &#xC5C4;&#xCCAD; &#xB192;&#xC74C;!](.gitbook/assets/image%20%28175%29.png)
+
+이 자료는 초심자도 쉽게 이해하고 따라할 수 있도록 제작되었습니다. 온라인 자료만으로도 큰 도움이 되지만, 직접 강사를 만나고 소규모의 수강생들과 함께 코딩을 배우고 싶다면 [https://coalastudy.com](https://coalastudy.com)으로 놀러와주세요.
 
 ## 이 자료는 코알라의 재산입니다.
 
-코알라 - 코딩좀알려주라\([http://coalastudy.com](http://coalastudy.com)\)에서 제작하였습니다.
+**`© 2019 Coala All Rights Reserved`**  
+코딩좀알려주라\([https://coalastudy.com](https://coalastudy.com)\)에서 제작하였습니다.
+
+모든 사람들이 쉽게 코딩을 배울 수 있도록 귀중한 자료를 공개하였습니다. 상업적인 용도로 사용하실 수 없으며 개인 학습용으로만 이용바랍니다. 협력 및 제안은 info@meeta.io로 연락주세요:\)
 
 ## 코딩을 배우는 이유는?
 
@@ -16,11 +27,11 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ## 코알라의 코딩스터디!
 
-![](.gitbook/assets/image%20%28236%29.png)
+![](.gitbook/assets/image%20%28237%29.png)
 
-![](.gitbook/assets/image%20%28253%29.png)
+![](.gitbook/assets/image%20%28254%29.png)
 
-![](.gitbook/assets/image%20%28298%29.png)
+![](.gitbook/assets/image%20%28300%29.png)
 
 ## 이런 분들에게 추천합니다.
 
@@ -44,7 +55,7 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ![](.gitbook/assets/image%20%28109%29.png)
 
-## 스터디 방식
+## 스터디 방식 \(오프라인 강의 한정\)
 
 ### 1. 목표를 설정합니다.
 
@@ -56,14 +67,14 @@ description: FACEBOOK을 만드는 Python 장고 스터디에 오신것을 환�
 
 ### 3. 결과를 눈으로 확인합니다.
 
-![](.gitbook/assets/image%20%28175%29.png)
+![](.gitbook/assets/image%20%28176%29.png)
 
 ### 4. 설명을 듣고 원리를 이해합니다.
 
 ![](.gitbook/assets/image%20%28169%29.png)
 
 {% hint style="success" %}
-### 요청드려!
+### 요청드려요!
 
 #### 흐름을 끊고 질문을 주시는 것조차도 환영합니다.
 

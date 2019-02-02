@@ -8,7 +8,7 @@
 
 ### 1. 새 프로젝트를 생성합니다.
 
-![](../.gitbook/assets/image%20%28266%29.png)
+![](../.gitbook/assets/image%20%28268%29.png)
 
 ### 2. 적당한 프로젝트의 이름을 입력합니다. \(ex python\_practice\)
 
@@ -16,9 +16,9 @@
 
 ### 3. 새로운 파이썬 파일을 생성합니다.
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28206%29.png)
 
 ### 4. 코드를 이곳에 작성합니다.
 

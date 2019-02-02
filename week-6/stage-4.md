@@ -12,7 +12,7 @@
 
 #### 3. `$Bash`를 클릭합니다.
 
-![](../.gitbook/assets/image%20%28240%29.png)
+![](../.gitbook/assets/image%20%28241%29.png)
 
 #### 4. 웹에 나타나는 터미널에 git clone [https://git~~복사한git주소~~facebook.git](https://git~~복사한git주소~~facebook.git) 입력합니다.
 
@@ -52,7 +52,7 @@
 
 #### 3. Manual configuration을 선택합니다.
 
-![](../.gitbook/assets/image%20%28195%29.png)
+![](../.gitbook/assets/image%20%28196%29.png)
 
 #### 4. Python 3.6을 선택합니다.
 
@@ -68,13 +68,13 @@
 
 ![](../.gitbook/assets/image%20%28168%29.png)
 
-![\* &#xC798;&#xBABB; &#xC124;&#xC815;&#xD558;&#xBA74; &#xC704;&#xC640; &#xAC19;&#xC740; &#xC624;&#xB958;&#xAC00; &#xD45C;&#xC2DC;&#xB429;&#xB2C8;&#xB2E4;.](../.gitbook/assets/image%20%28179%29.png)
+![\* &#xC798;&#xBABB; &#xC124;&#xC815;&#xD558;&#xBA74; &#xC704;&#xC640; &#xAC19;&#xC740; &#xC624;&#xB958;&#xAC00; &#xD45C;&#xC2DC;&#xB429;&#xB2C8;&#xB2E4;.](../.gitbook/assets/image%20%28180%29.png)
 
 #### 7. WSGI를 설정합니다.
 
 아래의 파란색 글씨인 `/home/dogeunchoi/` 부분에서 **dogeunchoi**가 **자신의 pythonanywhere 이름**입니다. 잠시 후 사용해야하니 기억해주세요.
 
-![&#xCD08;&#xB85D;&#xC0C9; &#xBD80;&#xBD84; &#xD074;&#xB9AD;!](../.gitbook/assets/image%20%28219%29.png)
+![&#xCD08;&#xB85D;&#xC0C9; &#xBD80;&#xBD84; &#xD074;&#xB9AD;!](../.gitbook/assets/image%20%28220%29.png)
 
 #### 8. 아래의 wsgi.py의 내용을 복사해 그대로 붙여넣습니다.
 
@@ -144,7 +144,7 @@ github에 업로드해야합니다.
 
 #### 7. 웹탭에서 Reload하여 모든 변경사항을 적용합니다.
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28210%29.png)
 
 #### 8. reload 버튼 위의 자신의 web app 주소에 접속해봅니다.
 

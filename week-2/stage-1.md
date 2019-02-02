@@ -18,7 +18,7 @@
 
 float은 개체를 공중에 띄웁니다.
 
-![&#xD55C;&#xAE00;\(&#xC6CC;&#xB4DC;&#xD504;&#xB85C;&#xC138;&#xC11C;\)&#xC758; &#xBC30;&#xCE58; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%28222%29.png)
+![&#xD55C;&#xAE00;\(&#xC6CC;&#xB4DC;&#xD504;&#xB85C;&#xC138;&#xC11C;\)&#xC758; &#xBC30;&#xCE58; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%28223%29.png)
 
 한글로 치면, 가장 왼쪽의 나비모양에 해당하겠네요.
 
@@ -32,7 +32,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </body>
 ```
 
-![float: left;](../.gitbook/assets/image%20%28239%29.png)
+![float: left;](../.gitbook/assets/image%20%28240%29.png)
 
 ![float: right;](../.gitbook/assets/image%20%2871%29.png)
 

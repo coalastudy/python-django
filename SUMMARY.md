@@ -1,6 +1,6 @@
 # Table of contents
 
-* [파이썬 장고](README.md)
+* [FACEBOOK 함께 만들며 배우는 웹개발](README.md)
 * [사전 준비](preparations.md)
 * [1주차 - 웹의 화가가 되어보자](week-1/README.md)
   * [Stage 1 - 텍스트를 다루는 HTML tag를 배워보자](week-1/stage-1.md)

@@ -4,7 +4,7 @@
 
 ### 1. 메뉴 -&gt; View -&gt; Tool Windows -&gt; Terminal을 클릭합니다.
 
-![](../.gitbook/assets/image%20%28281%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
 ### 2. 하단에 Terminal이 표시됩니다.
 
@@ -24,7 +24,7 @@ terminal을 클릭하고 `python - -version` 을 입력합니다. 이어서 `pip
 
 좌측 위 Project 탭을 새로고침하여 **facebook** 폴더와 **main** 폴더가 잘 만들어졌는지 확인합니다.
 
-![](../.gitbook/assets/image%20%28265%29.png)
+![](../.gitbook/assets/image%20%28267%29.png)
 
 ### 4. main폴더를 열고 settings.py를 실행해줍니다.
 
@@ -51,23 +51,23 @@ _**error UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0:
 
 ### 1. 메뉴 -&gt; run -&gt; edit configurations 실행합니다.
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28272%29.png)
 
 ### 2. + 버튼을 클릭한 후 Python을 선택해줍니다.
 
-![](../.gitbook/assets/image%20%28285%29.png)
+![](../.gitbook/assets/image%20%28287%29.png)
 
 ### 3. 아래 캡쳐화면과 똑같이 설정해줍니다.
 
-![](../.gitbook/assets/image%20%28191%29.png)
+![](../.gitbook/assets/image%20%28192%29.png)
 
 ### 4. 실행 버튼을 클릭합니다. 일반적으로 우측 상단에 있습니다.
 
-![](../.gitbook/assets/image%20%28257%29.png)
+![](../.gitbook/assets/image%20%28259%29.png)
 
 **하단** **터미널에** `http://127.0.0.1:8000/` **에** **글자가** **표시되면** **잘** **실행된** **것** **입니다.**
 
-![](../.gitbook/assets/image%20%28206%29.png)
+![](../.gitbook/assets/image%20%28207%29.png)
 
 ### 5. 인터넷 브라우저를 열어 `http://127.0.0.1:8000`에 접속해봅니다.
 
@@ -92,15 +92,15 @@ _**error UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0:
 
 ### 1. 좌측 Project에서 facebook 폴더 내에 templates 폴더 생성. 폴더 생성 후 play.html 생성
 
-![](../.gitbook/assets/image%20%28263%29.png)
+![](../.gitbook/assets/image%20%28265%29.png)
 
 ### 2. facebook 폴더 내 views.py를 다음과 같이 수정
 
-![](../.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
 ### 3. main폴더 내 urls.py를 다음과 같이 수정
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![](../.gitbook/assets/image%20%28246%29.png)
 
 ### 4. play.html 내용을 Hello World!로 채우고 `http://127.0.0.1:8000/play/` 접속해보기
 
