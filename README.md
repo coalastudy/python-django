@@ -10,7 +10,9 @@ description: >-
 
 ![&#xC18C;&#xADDC;&#xBAA8; &#xCF54;&#xB529; &#xAC15;&#xC758;, &#xB9CC;&#xC871;&#xB3C4; &#xC5C4;&#xCCAD; &#xB192;&#xC74C;!](.gitbook/assets/image%20%28175%29.png)
 
-이 자료는 초심자도 쉽게 이해하고 따라할 수 있도록 제작되었습니다. 온라인 자료만으로도 큰 도움이 되지만, 직접 강사를 만나고 소규모의 수강생들과 함께 코딩을 배우고 싶다면 [https://coalastudy.com](https://coalastudy.com)으로 놀러와주세요.
+이 자료는 초심자도 쉽게 이해하고 따라할 수 있도록 제작되었습니다.
+
+온라인 자료만으로도 큰 도움이 되지만, 직접 강사를 만나고 소규모의 수강생들과 함께 코딩을 배우고 싶다면 [https://coalastudy.com](https://coalastudy.com)으로 놀러와주세요.
 
 ## 이 자료는 코알라의 재산입니다.
 
