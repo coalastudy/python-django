@@ -32,37 +32,40 @@
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left">제목</th>
-      <th style="text-align:left">주</th>
-      <th style="text-align:left">특</th>
+      <th style="text-align:left">&#xC81C;&#xBAA9;</th>
+      <th style="text-align:left">&#xC8FC;</th>
+      <th style="text-align:left">&#xD2B9;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)</td>
-      <td style="text-align:left"><a href="https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/">https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/</a>
-      </td>
-      <td style="text-align:left">자세한 설명</td>
+      <td style="text-align:left">&#xCD08;&#xC2EC;&#xC790;&#xB97C; &#xC704;&#xD55C; Github &#xD611;&#xC5C5;
+        &#xD29C;&#xD1A0;&#xB9AC;&#xC5BC; (with &#xD1A0;&#xB07C;&#xC640; &#xAC70;&#xBD81;&#xC774;)</td>
+      <td
+      style="text-align:left"><a href="https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/">https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/</a>
+        </td>
+        <td style="text-align:left">&#xC790;&#xC138;&#xD55C; &#xC124;&#xBA85;</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Git 설치와 사용법(SourceTree)</td>
-      <td style="text-align:left"><a href="http://gbsb.tistory.com/9">http://gbsb.tistory.com/9</a>
-      </td>
-      <td style="text-align:left">자세한 설명</td>
+      <td style="text-align:left">Git &#xC124;&#xCE58;&#xC640; &#xC0AC;&#xC6A9;&#xBC95;(SourceTree)</td>
+      <td
+      style="text-align:left"><a href="http://gbsb.tistory.com/9">http://gbsb.tistory.com/9</a>
+        </td>
+        <td style="text-align:left">&#xC790;&#xC138;&#xD55C; &#xC124;&#xBA85;</td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left">
         <p></p>
         <ol>
-          <li>깃&소스트리 사용법</li>
+          <li>&#xAE43;&amp;&#xC18C;&#xC2A4;&#xD2B8;&#xB9AC; &#xC0AC;&#xC6A9;&#xBC95;</li>
         </ol>
       </td>
       <td style="text-align:left"><a href="http://jy-doromi.tistory.com/34">http://jy-doromi.tistory.com/34</a>
       </td>
-      <td style="text-align:left">간단한 설명</td>
+      <td style="text-align:left">&#xAC04;&#xB2E8;&#xD55C; &#xC124;&#xBA85;</td>
     </tr>
   </tbody>
 </table>저희 스터디에서는 소스트리의 **'커밋', '푸시' 기능**만 사용합니다. 위의 메뉴얼에서 이 두가지 기능만 확인하시거나 시간이 허락된다면 전체적으로 살펴보셔도 좋습니다.
