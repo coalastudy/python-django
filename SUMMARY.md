@@ -96,4 +96,5 @@
     * [모범 답안](week-6/exercise-2/undefined.md)
   * [추천자료](week-6/undefined.md)
 * [나아가기](outro.md)
+* [코딩좀알려주라!](https://coalastudy.com)
 
